@@ -1,0 +1,1201 @@
+content_id,title,genre,release_year,country,language,rating,duration_minutes,budget_million_usd,imdb_score,seasons,content_type
+NFX100000,Show_0,Horror,1999,United States,Hindi,R,85,91,6.3,3,Movie
+NFX100001,Show_1,Thriller,2012,Canada,Japanese,R,106,153,6.8,4,TV Show
+NFX100002,Show_2,Romance,2022,India,Japanese,TV-14,64,61,9.0,3,Movie
+NFX100003,Show_3,Horror,2004,Spain,Japanese,TV-PG,149,107,7.9,6,Movie
+NFX100004,Show_4,Action,2023,Canada,Hindi,TV-PG,79,155,7.2,7,Movie
+NFX100005,Show_5,Documentary,2016,United Kingdom,Korean,TV-MA,65,95,8.4,5,Movie
+NFX100006,Show_6,Romance,2015,Canada,Korean,TV-MA,129,49,8.8,2,TV Show
+NFX100007,Show_7,Romance,2000,South Korea,English,PG-13,118,176,6.5,2,TV Show
+NFX100008,Show_8,Horror,1995,United States,Japanese,TV-14,123,92,6.6,3,TV Show
+NFX100009,Show_9,Comedy,1999,United States,Korean,TV-MA,173,119,6.1,6,TV Show
+NFX100010,Show_10,Action,2003,Japan,English,TV-MA,77,51,9.3,1,Movie
+NFX100011,Show_11,Horror,2006,Japan,Korean,TV-14,63,172,7.8,7,TV Show
+NFX100012,Show_12,Action,2020,Spain,Japanese,PG-13,76,183,4.5,3,TV Show
+NFX100013,Show_13,Action,2008,United Kingdom,Spanish,TV-MA,73,174,8.7,6,TV Show
+NFX100014,Show_14,Documentary,1996,South Korea,Japanese,PG-13,137,139,6.6,4,Movie
+NFX100015,Show_15,Romance,2011,India,Hindi,R,72,54,4.4,2,TV Show
+NFX100016,Show_16,Thriller,2008,Canada,Korean,PG-13,66,180,7.0,2,TV Show
+NFX100017,Show_17,Documentary,2020,Spain,Korean,TV-PG,103,88,6.3,7,Movie
+NFX100018,Show_18,Documentary,2007,United Kingdom,Hindi,TV-PG,178,95,8.8,2,Movie
+NFX100019,Show_19,Action,2021,Japan,Hindi,PG-13,74,138,5.1,1,TV Show
+NFX100020,Show_20,Sci-Fi,2003,Canada,Spanish,TV-PG,78,95,8.5,6,TV Show
+NFX100021,Show_21,Romance,2020,Japan,Korean,R,122,141,7.1,6,Movie
+NFX100022,Show_22,Comedy,2019,Canada,Korean,TV-14,166,113,4.3,7,TV Show
+NFX100023,Show_23,Documentary,2009,India,Spanish,TV-PG,170,61,9.3,6,Movie
+NFX100024,Show_24,Thriller,2019,United Kingdom,English,TV-PG,167,35,6.8,7,TV Show
+NFX100025,Show_25,Sci-Fi,2016,Canada,Spanish,PG-13,94,25,5.6,6,TV Show
+NFX100026,Show_26,Sci-Fi,2009,South Korea,Japanese,R,140,94,6.6,1,TV Show
+NFX100027,Show_27,Comedy,2018,Spain,Korean,TV-14,94,44,8.7,5,TV Show
+NFX100028,Show_28,Documentary,2024,United States,Hindi,PG-13,78,116,5.7,3,TV Show
+NFX100029,Show_29,Thriller,2005,South Korea,Japanese,PG-13,79,49,5.1,3,Movie
+NFX100030,Show_30,Romance,2010,South Korea,Korean,R,159,81,4.7,6,Movie
+NFX100031,Show_31,Drama,2023,Spain,Spanish,TV-14,94,181,5.6,4,TV Show
+NFX100032,Show_32,Thriller,2011,United States,Japanese,R,91,91,8.3,2,TV Show
+NFX100033,Show_33,Comedy,2020,South Korea,Korean,TV-14,107,152,6.6,1,TV Show
+NFX100034,Show_34,Sci-Fi,1998,Canada,English,R,103,105,5.3,4,Movie
+NFX100035,Show_35,Romance,1995,Canada,English,PG-13,163,121,4.9,4,Movie
+NFX100036,Show_36,Thriller,2002,Canada,Hindi,PG-13,83,96,5.8,6,Movie
+NFX100037,Show_37,Drama,2011,United States,Korean,TV-MA,120,149,9.2,1,Movie
+NFX100038,Show_38,Drama,1997,South Korea,English,TV-PG,76,32,5.9,3,Movie
+NFX100039,Show_39,Action,2023,United States,Spanish,R,130,173,9.4,2,Movie
+NFX100040,Show_40,Action,2014,Canada,Korean,TV-MA,166,198,6.7,3,Movie
+NFX100041,Show_41,Horror,2009,Spain,Spanish,TV-PG,109,29,5.0,4,Movie
+NFX100042,Show_42,Comedy,2009,South Korea,Spanish,R,124,62,8.9,2,TV Show
+NFX100043,Show_43,Documentary,2018,South Korea,English,TV-14,158,45,6.5,5,Movie
+NFX100044,Show_44,Thriller,2016,Japan,Korean,TV-PG,91,138,7.9,4,Movie
+NFX100045,Show_45,Thriller,2008,Japan,Japanese,PG-13,95,79,9.4,3,Movie
+NFX100046,Show_46,Documentary,2020,India,English,TV-MA,72,42,4.3,3,Movie
+NFX100047,Show_47,Horror,2022,United Kingdom,English,TV-PG,129,138,4.5,6,TV Show
+NFX100048,Show_48,Sci-Fi,2017,Japan,Korean,TV-PG,117,177,8.0,3,Movie
+NFX100049,Show_49,Sci-Fi,2008,United States,Korean,PG-13,73,79,5.6,1,TV Show
+NFX100050,Show_50,Horror,2018,Japan,Spanish,R,96,146,5.0,4,TV Show
+NFX100051,Show_51,Sci-Fi,1996,India,Korean,TV-14,171,70,4.2,7,TV Show
+NFX100052,Show_52,Action,2007,South Korea,Spanish,PG-13,138,172,4.1,7,Movie
+NFX100053,Show_53,Thriller,2020,India,English,TV-14,170,7,8.3,2,Movie
+NFX100054,Show_54,Horror,2008,South Korea,Hindi,R,127,121,4.7,3,Movie
+NFX100055,Show_55,Thriller,2021,Spain,Japanese,TV-PG,99,103,6.6,6,TV Show
+NFX100056,Show_56,Documentary,2018,Spain,English,TV-14,118,156,7.3,6,TV Show
+NFX100057,Show_57,Drama,2013,South Korea,Korean,TV-MA,139,23,6.4,3,TV Show
+NFX100058,Show_58,Action,2001,United Kingdom,Japanese,TV-MA,151,150,4.1,1,TV Show
+NFX100059,Show_59,Romance,1997,Japan,Hindi,PG-13,75,196,8.3,6,Movie
+NFX100060,Show_60,Action,2009,United States,Hindi,R,121,120,4.1,7,Movie
+NFX100061,Show_61,Horror,2017,United States,Spanish,PG-13,63,129,8.2,2,Movie
+NFX100062,Show_62,Romance,2008,Canada,Japanese,PG-13,104,92,8.9,4,TV Show
+NFX100063,Show_63,Drama,2005,South Korea,Spanish,PG-13,149,39,6.4,5,TV Show
+NFX100064,Show_64,Horror,2009,United States,English,TV-MA,87,194,6.9,1,Movie
+NFX100065,Show_65,Comedy,2022,United Kingdom,Japanese,TV-MA,155,5,6.6,6,Movie
+NFX100066,Show_66,Thriller,2007,South Korea,English,PG-13,168,157,6.1,4,TV Show
+NFX100067,Show_67,Drama,2012,United Kingdom,Spanish,TV-MA,125,177,8.9,5,Movie
+NFX100068,Show_68,Thriller,2020,United States,Japanese,R,90,181,8.9,3,Movie
+NFX100069,Show_69,Sci-Fi,2000,United States,Spanish,PG-13,62,130,5.8,3,TV Show
+NFX100070,Show_70,Comedy,1997,Canada,Japanese,TV-MA,177,93,7.4,2,TV Show
+NFX100071,Show_71,Comedy,2013,United States,Spanish,TV-14,67,148,9.1,5,TV Show
+NFX100072,Show_72,Drama,2009,South Korea,Hindi,PG-13,83,151,9.3,3,Movie
+NFX100073,Show_73,Comedy,2019,Spain,Spanish,PG-13,74,155,6.8,3,TV Show
+NFX100074,Show_74,Romance,2017,South Korea,Hindi,R,102,29,6.5,7,Movie
+NFX100075,Show_75,Comedy,1999,South Korea,Spanish,TV-PG,90,20,5.5,6,Movie
+NFX100076,Show_76,Thriller,2022,Canada,Japanese,TV-PG,132,186,9.3,2,TV Show
+NFX100077,Show_77,Thriller,2004,Canada,Japanese,R,162,77,4.8,4,Movie
+NFX100078,Show_78,Horror,2001,United States,Japanese,R,104,133,7.2,3,TV Show
+NFX100079,Show_79,Thriller,2019,India,Korean,R,125,46,5.6,7,TV Show
+NFX100080,Show_80,Horror,2011,India,English,TV-PG,67,151,5.5,1,Movie
+NFX100081,Show_81,Thriller,2001,Canada,Japanese,R,130,166,6.2,1,Movie
+NFX100082,Show_82,Romance,2016,United States,Hindi,TV-MA,179,84,9.5,4,TV Show
+NFX100083,Show_83,Documentary,2020,India,Japanese,PG-13,167,108,4.3,5,TV Show
+NFX100084,Show_84,Horror,2024,United States,Korean,PG-13,174,187,7.2,2,TV Show
+NFX100085,Show_85,Action,2006,United States,Hindi,TV-14,162,150,4.5,7,TV Show
+NFX100086,Show_86,Sci-Fi,2019,United States,Korean,TV-14,165,38,4.8,6,TV Show
+NFX100087,Show_87,Drama,2011,Japan,Hindi,PG-13,116,93,6.4,7,TV Show
+NFX100088,Show_88,Thriller,2007,South Korea,Spanish,TV-MA,139,129,6.8,1,Movie
+NFX100089,Show_89,Comedy,2014,United States,English,TV-PG,158,49,5.4,1,Movie
+NFX100090,Show_90,Documentary,2019,Japan,English,TV-PG,89,138,5.7,4,Movie
+NFX100091,Show_91,Thriller,1998,Canada,Korean,TV-MA,133,25,4.5,5,Movie
+NFX100092,Show_92,Comedy,2004,India,English,TV-PG,161,126,5.7,5,TV Show
+NFX100093,Show_93,Sci-Fi,1997,South Korea,Korean,R,77,74,9.3,4,Movie
+NFX100094,Show_94,Sci-Fi,2003,Spain,Korean,PG-13,173,100,9.2,7,Movie
+NFX100095,Show_95,Sci-Fi,2007,India,Korean,PG-13,128,109,5.8,1,TV Show
+NFX100096,Show_96,Comedy,2012,South Korea,English,TV-MA,176,52,7.1,7,Movie
+NFX100097,Show_97,Thriller,2009,Spain,Korean,TV-PG,152,43,9.0,7,TV Show
+NFX100098,Show_98,Sci-Fi,1998,India,English,TV-14,98,35,4.0,2,TV Show
+NFX100099,Show_99,Romance,2009,South Korea,Korean,TV-14,119,14,8.5,1,TV Show
+NFX100100,Show_100,Horror,2016,India,Japanese,TV-PG,157,34,9.2,5,TV Show
+NFX100101,Show_101,Comedy,1996,India,Korean,TV-14,102,22,4.5,6,TV Show
+NFX100102,Show_102,Comedy,2009,Spain,Hindi,TV-MA,104,192,4.9,7,Movie
+NFX100103,Show_103,Thriller,2002,India,Korean,TV-MA,82,92,9.3,1,Movie
+NFX100104,Show_104,Comedy,2002,India,Spanish,TV-PG,128,129,7.0,7,Movie
+NFX100105,Show_105,Comedy,2011,Spain,Korean,TV-14,153,77,4.1,2,TV Show
+NFX100106,Show_106,Sci-Fi,2006,Canada,Hindi,TV-MA,65,19,5.4,3,Movie
+NFX100107,Show_107,Thriller,2013,United States,Hindi,TV-MA,115,8,6.5,1,Movie
+NFX100108,Show_108,Sci-Fi,2004,United Kingdom,English,R,169,195,7.8,4,Movie
+NFX100109,Show_109,Horror,2003,Japan,Japanese,R,167,172,8.0,3,Movie
+NFX100110,Show_110,Documentary,1999,United Kingdom,Korean,TV-MA,63,13,9.5,7,TV Show
+NFX100111,Show_111,Horror,2000,United Kingdom,English,TV-PG,152,113,5.6,4,Movie
+NFX100112,Show_112,Documentary,2014,South Korea,Japanese,PG-13,82,141,7.0,4,TV Show
+NFX100113,Show_113,Sci-Fi,2020,United States,Korean,PG-13,65,158,6.9,4,TV Show
+NFX100114,Show_114,Horror,1996,South Korea,Spanish,TV-MA,91,136,6.2,1,Movie
+NFX100115,Show_115,Thriller,2021,United States,Korean,TV-MA,165,20,4.9,5,TV Show
+NFX100116,Show_116,Drama,2018,Spain,Hindi,TV-MA,77,147,9.4,7,TV Show
+NFX100117,Show_117,Sci-Fi,2021,Spain,Hindi,TV-PG,74,103,8.7,3,TV Show
+NFX100118,Show_118,Documentary,2007,United States,Spanish,R,99,125,6.7,2,TV Show
+NFX100119,Show_119,Romance,2000,India,English,TV-MA,155,56,7.3,5,TV Show
+NFX100120,Show_120,Documentary,1999,Canada,Japanese,TV-MA,132,73,5.2,7,TV Show
+NFX100121,Show_121,Romance,2019,India,Korean,TV-14,160,9,7.0,1,TV Show
+NFX100122,Show_122,Comedy,1995,Canada,Hindi,TV-PG,133,24,7.8,4,Movie
+NFX100123,Show_123,Horror,2015,South Korea,English,TV-MA,143,83,6.8,2,Movie
+NFX100124,Show_124,Romance,2016,Canada,Spanish,TV-14,65,150,9.4,7,TV Show
+NFX100125,Show_125,Documentary,2015,South Korea,Hindi,PG-13,171,115,7.4,3,TV Show
+NFX100126,Show_126,Comedy,2000,Spain,Spanish,TV-MA,179,6,6.0,7,Movie
+NFX100127,Show_127,Drama,2000,United Kingdom,Korean,TV-MA,122,97,8.2,5,Movie
+NFX100128,Show_128,Thriller,2017,Spain,Japanese,TV-14,126,17,4.9,6,Movie
+NFX100129,Show_129,Thriller,2010,Spain,Hindi,TV-PG,165,8,6.1,5,Movie
+NFX100130,Show_130,Thriller,1998,United Kingdom,Hindi,TV-MA,70,174,5.9,7,TV Show
+NFX100131,Show_131,Romance,2024,Canada,Korean,PG-13,102,113,6.4,2,TV Show
+NFX100132,Show_132,Drama,2005,Canada,English,TV-MA,76,78,8.3,7,Movie
+NFX100133,Show_133,Romance,2024,South Korea,Japanese,PG-13,155,193,6.7,7,Movie
+NFX100134,Show_134,Horror,2024,India,Hindi,R,63,99,8.4,1,Movie
+NFX100135,Show_135,Romance,2024,South Korea,Japanese,R,122,109,7.2,3,Movie
+NFX100136,Show_136,Drama,2018,India,Hindi,PG-13,127,12,5.9,2,TV Show
+NFX100137,Show_137,Drama,2017,Spain,Japanese,TV-PG,140,71,8.5,7,Movie
+NFX100138,Show_138,Horror,2003,United Kingdom,Spanish,TV-MA,100,195,5.3,4,Movie
+NFX100139,Show_139,Drama,2017,Spain,Hindi,TV-MA,142,114,5.2,3,Movie
+NFX100140,Show_140,Documentary,1997,United States,Japanese,R,64,13,6.8,5,TV Show
+NFX100141,Show_141,Drama,2013,Canada,English,PG-13,91,121,5.4,2,TV Show
+NFX100142,Show_142,Thriller,2002,India,Spanish,TV-MA,145,15,4.0,5,TV Show
+NFX100143,Show_143,Documentary,1999,South Korea,Spanish,TV-MA,179,103,7.6,7,Movie
+NFX100144,Show_144,Documentary,1998,United Kingdom,English,TV-PG,129,46,6.8,5,Movie
+NFX100145,Show_145,Horror,2018,India,Japanese,TV-14,94,145,6.5,5,Movie
+NFX100146,Show_146,Action,2000,South Korea,Korean,R,81,168,9.3,1,TV Show
+NFX100147,Show_147,Action,1996,Canada,English,R,124,124,7.1,5,TV Show
+NFX100148,Show_148,Drama,2014,Spain,Japanese,TV-14,143,145,8.7,4,Movie
+NFX100149,Show_149,Documentary,2022,Canada,English,TV-MA,81,16,4.8,4,Movie
+NFX100150,Show_150,Action,2005,Japan,English,TV-PG,171,41,7.1,3,TV Show
+NFX100151,Show_151,Action,1998,United States,Hindi,TV-PG,178,78,8.8,7,Movie
+NFX100152,Show_152,Drama,2009,Japan,Japanese,R,70,77,7.2,6,Movie
+NFX100153,Show_153,Action,2000,United Kingdom,Korean,TV-PG,136,56,7.9,5,Movie
+NFX100154,Show_154,Romance,2016,India,Hindi,TV-14,165,134,6.0,5,TV Show
+NFX100155,Show_155,Comedy,2011,United Kingdom,English,TV-MA,62,60,4.5,2,Movie
+NFX100156,Show_156,Horror,2024,Spain,English,TV-14,68,64,6.5,1,Movie
+NFX100157,Show_157,Comedy,2018,South Korea,English,PG-13,119,27,6.2,6,Movie
+NFX100158,Show_158,Drama,2000,Canada,Japanese,R,135,107,8.8,3,Movie
+NFX100159,Show_159,Thriller,2013,Japan,Japanese,TV-PG,146,44,5.3,6,TV Show
+NFX100160,Show_160,Horror,2024,Japan,Hindi,PG-13,73,68,9.3,5,TV Show
+NFX100161,Show_161,Drama,2019,Spain,Korean,TV-PG,156,89,9.3,2,TV Show
+NFX100162,Show_162,Documentary,1996,Japan,Hindi,TV-MA,77,155,5.4,7,Movie
+NFX100163,Show_163,Thriller,2009,Spain,Spanish,TV-MA,172,161,5.9,1,TV Show
+NFX100164,Show_164,Comedy,2005,United Kingdom,English,TV-MA,164,183,8.9,7,Movie
+NFX100165,Show_165,Drama,2002,Canada,English,TV-PG,132,93,9.3,3,TV Show
+NFX100166,Show_166,Documentary,2020,India,English,PG-13,82,35,6.4,6,Movie
+NFX100167,Show_167,Horror,2013,South Korea,Hindi,TV-MA,133,182,5.8,3,TV Show
+NFX100168,Show_168,Horror,2007,India,Hindi,PG-13,142,24,6.9,5,TV Show
+NFX100169,Show_169,Sci-Fi,2006,United Kingdom,English,TV-PG,106,187,7.8,3,TV Show
+NFX100170,Show_170,Documentary,1999,South Korea,Hindi,PG-13,128,134,5.5,7,Movie
+NFX100171,Show_171,Romance,2000,Japan,Japanese,TV-PG,106,157,8.1,2,Movie
+NFX100172,Show_172,Action,2020,United States,Japanese,TV-PG,175,17,4.3,3,Movie
+NFX100173,Show_173,Thriller,2016,United Kingdom,Hindi,R,146,126,4.3,4,TV Show
+NFX100174,Show_174,Documentary,1998,United Kingdom,English,TV-PG,89,107,6.1,2,Movie
+NFX100175,Show_175,Sci-Fi,2013,Canada,Hindi,TV-PG,84,110,5.9,6,Movie
+NFX100176,Show_176,Action,2014,India,Hindi,TV-14,87,123,5.7,1,Movie
+NFX100177,Show_177,Action,1995,United Kingdom,Hindi,TV-MA,157,74,6.7,1,Movie
+NFX100178,Show_178,Drama,2014,United Kingdom,Spanish,R,168,199,5.8,5,Movie
+NFX100179,Show_179,Action,2011,Japan,Japanese,R,179,190,5.1,5,Movie
+NFX100180,Show_180,Romance,2006,Japan,Korean,R,171,103,5.7,4,TV Show
+NFX100181,Show_181,Horror,2009,South Korea,Korean,TV-14,170,86,9.4,6,TV Show
+NFX100182,Show_182,Sci-Fi,1995,Spain,Spanish,TV-PG,84,79,6.3,7,Movie
+NFX100183,Show_183,Action,2020,Spain,Hindi,TV-MA,133,122,6.4,1,TV Show
+NFX100184,Show_184,Drama,2008,United States,Spanish,PG-13,137,88,7.2,1,TV Show
+NFX100185,Show_185,Romance,2000,Spain,Spanish,TV-PG,165,196,9.4,1,Movie
+NFX100186,Show_186,Comedy,1999,Canada,English,TV-14,169,73,5.3,7,Movie
+NFX100187,Show_187,Horror,2024,United States,Japanese,TV-PG,117,63,7.7,1,TV Show
+NFX100188,Show_188,Horror,2005,South Korea,Korean,TV-PG,153,192,7.9,3,Movie
+NFX100189,Show_189,Sci-Fi,1998,Japan,Hindi,TV-14,178,130,7.3,6,TV Show
+NFX100190,Show_190,Horror,2007,Spain,Korean,R,100,115,4.5,2,TV Show
+NFX100191,Show_191,Action,2005,India,Korean,R,84,66,7.7,2,TV Show
+NFX100192,Show_192,Drama,1997,Japan,Japanese,TV-MA,137,148,4.4,4,Movie
+NFX100193,Show_193,Horror,1995,Canada,Korean,TV-MA,158,132,7.3,3,TV Show
+NFX100194,Show_194,Horror,2000,Japan,Korean,R,175,109,8.1,1,Movie
+NFX100195,Show_195,Comedy,2012,Canada,Spanish,PG-13,107,72,5.2,1,Movie
+NFX100196,Show_196,Comedy,2018,Canada,Japanese,TV-PG,157,19,8.6,5,Movie
+NFX100197,Show_197,Thriller,2004,Canada,English,PG-13,69,187,4.2,5,Movie
+NFX100198,Show_198,Romance,1999,South Korea,Hindi,TV-PG,158,39,8.6,4,Movie
+NFX100199,Show_199,Action,2017,Canada,Korean,R,134,187,6.5,1,TV Show
+NFX100200,Show_200,Horror,2004,Canada,Hindi,TV-MA,70,18,5.2,4,Movie
+NFX100201,Show_201,Documentary,2006,India,English,TV-MA,144,181,4.7,3,Movie
+NFX100202,Show_202,Horror,1996,United States,Hindi,PG-13,80,106,9.2,2,Movie
+NFX100203,Show_203,Drama,2007,United Kingdom,English,TV-MA,145,104,4.4,1,Movie
+NFX100204,Show_204,Thriller,2002,United States,Spanish,R,104,11,5.1,6,Movie
+NFX100205,Show_205,Romance,1996,Canada,Korean,PG-13,66,34,5.9,7,TV Show
+NFX100206,Show_206,Documentary,2014,India,English,TV-PG,178,53,7.4,3,Movie
+NFX100207,Show_207,Thriller,1995,Japan,Hindi,TV-MA,140,148,7.0,1,Movie
+NFX100208,Show_208,Sci-Fi,1999,India,Korean,TV-14,123,115,4.7,7,TV Show
+NFX100209,Show_209,Romance,2003,Canada,Spanish,TV-MA,123,183,5.6,6,Movie
+NFX100210,Show_210,Horror,2011,India,Korean,TV-PG,61,76,5.3,5,TV Show
+NFX100211,Show_211,Horror,2003,Spain,English,PG-13,135,84,5.2,4,TV Show
+NFX100212,Show_212,Romance,2005,India,Spanish,TV-PG,101,87,6.3,5,TV Show
+NFX100213,Show_213,Horror,2009,Canada,Hindi,TV-14,141,46,7.9,2,TV Show
+NFX100214,Show_214,Action,2018,South Korea,Spanish,R,113,21,5.2,5,Movie
+NFX100215,Show_215,Romance,2000,Spain,Spanish,TV-MA,134,195,6.0,1,Movie
+NFX100216,Show_216,Thriller,2017,India,Japanese,PG-13,75,177,6.2,6,TV Show
+NFX100217,Show_217,Romance,1997,United Kingdom,Spanish,R,172,11,9.4,5,TV Show
+NFX100218,Show_218,Documentary,2024,United Kingdom,Spanish,TV-PG,174,159,9.3,1,Movie
+NFX100219,Show_219,Horror,2011,India,Korean,PG-13,77,14,8.4,2,TV Show
+NFX100220,Show_220,Action,1999,South Korea,Hindi,R,158,38,5.3,7,TV Show
+NFX100221,Show_221,Action,2024,Japan,Korean,PG-13,176,40,4.4,6,TV Show
+NFX100222,Show_222,Sci-Fi,2022,Canada,Korean,TV-14,118,157,5.7,5,Movie
+NFX100223,Show_223,Thriller,2006,United Kingdom,English,TV-14,149,10,5.5,4,TV Show
+NFX100224,Show_224,Comedy,2012,Japan,Korean,TV-MA,75,156,6.8,4,Movie
+NFX100225,Show_225,Comedy,2008,India,Japanese,TV-MA,65,150,8.3,6,Movie
+NFX100226,Show_226,Romance,2015,Japan,Japanese,TV-14,116,138,8.7,4,Movie
+NFX100227,Show_227,Sci-Fi,2018,Spain,English,PG-13,167,33,8.6,5,TV Show
+NFX100228,Show_228,Drama,2005,United States,Hindi,TV-14,166,130,6.0,5,TV Show
+NFX100229,Show_229,Romance,2003,United Kingdom,Hindi,TV-MA,106,157,7.8,6,Movie
+NFX100230,Show_230,Sci-Fi,1996,India,Korean,TV-14,170,187,5.7,5,Movie
+NFX100231,Show_231,Thriller,2006,Canada,Korean,TV-14,107,85,4.3,7,Movie
+NFX100232,Show_232,Thriller,1997,South Korea,Korean,PG-13,101,178,7.9,1,TV Show
+NFX100233,Show_233,Thriller,1997,Spain,Hindi,R,135,156,4.1,2,TV Show
+NFX100234,Show_234,Thriller,1995,India,Spanish,TV-MA,119,79,6.3,7,Movie
+NFX100235,Show_235,Thriller,2002,Canada,Japanese,PG-13,136,30,5.8,7,Movie
+NFX100236,Show_236,Sci-Fi,2016,South Korea,Spanish,TV-14,63,131,7.8,4,TV Show
+NFX100237,Show_237,Sci-Fi,2022,South Korea,Spanish,TV-14,162,119,8.2,1,Movie
+NFX100238,Show_238,Action,2023,India,Hindi,R,177,130,5.7,6,TV Show
+NFX100239,Show_239,Documentary,2002,Spain,Spanish,TV-MA,61,32,8.5,4,TV Show
+NFX100240,Show_240,Comedy,2005,Japan,English,TV-MA,149,135,5.6,1,Movie
+NFX100241,Show_241,Horror,2003,Japan,Korean,TV-PG,118,79,6.5,5,Movie
+NFX100242,Show_242,Thriller,1999,South Korea,English,TV-MA,86,170,8.0,6,TV Show
+NFX100243,Show_243,Drama,2008,Japan,Japanese,R,86,193,7.8,6,TV Show
+NFX100244,Show_244,Horror,2022,United States,Korean,TV-PG,138,82,9.4,4,TV Show
+NFX100245,Show_245,Sci-Fi,2024,South Korea,Spanish,TV-PG,131,183,5.2,5,TV Show
+NFX100246,Show_246,Drama,1997,South Korea,Japanese,TV-14,66,94,7.6,4,TV Show
+NFX100247,Show_247,Drama,2015,Canada,Korean,TV-14,122,180,7.4,3,Movie
+NFX100248,Show_248,Drama,1999,Japan,Spanish,TV-MA,170,25,9.0,1,TV Show
+NFX100249,Show_249,Action,1999,Spain,English,TV-PG,178,58,4.9,3,TV Show
+NFX100250,Show_250,Sci-Fi,2013,South Korea,Korean,TV-14,105,188,8.1,1,TV Show
+NFX100251,Show_251,Drama,2021,Spain,Spanish,R,122,107,7.1,2,Movie
+NFX100252,Show_252,Thriller,2008,United States,English,TV-14,163,63,5.5,7,Movie
+NFX100253,Show_253,Romance,2020,Canada,Japanese,TV-14,71,76,6.6,6,TV Show
+NFX100254,Show_254,Drama,2024,India,Japanese,TV-PG,72,183,5.8,4,TV Show
+NFX100255,Show_255,Action,1998,Spain,Japanese,TV-PG,102,24,7.2,2,Movie
+NFX100256,Show_256,Horror,2019,South Korea,Japanese,PG-13,76,116,8.9,2,Movie
+NFX100257,Show_257,Sci-Fi,2007,United States,Hindi,R,122,63,7.1,6,Movie
+NFX100258,Show_258,Documentary,2004,United Kingdom,Korean,TV-PG,140,75,7.5,6,Movie
+NFX100259,Show_259,Action,2019,United States,Korean,TV-MA,179,141,6.9,1,TV Show
+NFX100260,Show_260,Drama,2012,United States,Hindi,R,95,113,4.3,3,Movie
+NFX100261,Show_261,Sci-Fi,2002,Canada,Spanish,R,144,133,5.3,5,TV Show
+NFX100262,Show_262,Romance,2002,India,Spanish,TV-PG,67,161,6.7,1,TV Show
+NFX100263,Show_263,Drama,2001,United Kingdom,Japanese,R,128,195,5.7,5,Movie
+NFX100264,Show_264,Action,2002,Japan,English,TV-PG,149,60,5.0,2,Movie
+NFX100265,Show_265,Comedy,2008,Japan,Spanish,TV-14,139,39,6.8,5,Movie
+NFX100266,Show_266,Thriller,2013,Spain,English,PG-13,95,127,5.8,3,Movie
+NFX100267,Show_267,Documentary,2023,United States,Korean,TV-14,87,135,5.4,1,TV Show
+NFX100268,Show_268,Horror,2000,Canada,English,TV-PG,177,108,6.6,6,TV Show
+NFX100269,Show_269,Action,1995,Canada,Korean,TV-PG,152,11,4.7,3,TV Show
+NFX100270,Show_270,Sci-Fi,2017,Japan,Hindi,TV-14,106,31,9.1,7,Movie
+NFX100271,Show_271,Documentary,2009,Spain,Hindi,TV-MA,135,5,8.8,3,TV Show
+NFX100272,Show_272,Documentary,1995,Spain,Japanese,TV-MA,160,176,7.9,7,Movie
+NFX100273,Show_273,Documentary,2019,Spain,Spanish,TV-MA,89,91,4.6,1,TV Show
+NFX100274,Show_274,Drama,2011,United Kingdom,Japanese,TV-PG,82,45,8.3,6,Movie
+NFX100275,Show_275,Thriller,1995,India,Korean,R,75,127,8.4,3,TV Show
+NFX100276,Show_276,Drama,2009,United Kingdom,Japanese,TV-PG,73,79,8.2,7,TV Show
+NFX100277,Show_277,Sci-Fi,2017,South Korea,English,R,133,46,4.6,6,Movie
+NFX100278,Show_278,Drama,1996,South Korea,Korean,TV-14,130,121,7.5,4,TV Show
+NFX100279,Show_279,Comedy,2008,India,Hindi,PG-13,168,165,8.6,4,TV Show
+NFX100280,Show_280,Thriller,2015,Japan,Spanish,R,111,182,7.2,4,Movie
+NFX100281,Show_281,Thriller,2002,India,Korean,TV-MA,96,67,7.6,5,Movie
+NFX100282,Show_282,Sci-Fi,2002,Canada,Korean,TV-PG,88,169,6.5,3,Movie
+NFX100283,Show_283,Horror,2013,South Korea,English,TV-14,126,191,6.9,1,Movie
+NFX100284,Show_284,Comedy,2001,United States,Spanish,TV-MA,74,131,4.2,1,Movie
+NFX100285,Show_285,Action,2013,United States,Hindi,TV-14,159,180,7.5,5,TV Show
+NFX100286,Show_286,Drama,2000,Japan,Korean,PG-13,106,137,4.4,1,Movie
+NFX100287,Show_287,Romance,2000,Canada,Korean,TV-PG,105,52,6.4,7,TV Show
+NFX100288,Show_288,Drama,1997,United Kingdom,English,TV-PG,111,7,5.6,4,TV Show
+NFX100289,Show_289,Documentary,2001,Canada,Japanese,PG-13,78,120,7.0,3,Movie
+NFX100290,Show_290,Drama,2013,United States,Hindi,TV-PG,136,179,4.7,1,TV Show
+NFX100291,Show_291,Action,2002,United States,Spanish,R,165,194,7.8,1,TV Show
+NFX100292,Show_292,Drama,2004,South Korea,Korean,TV-14,80,103,8.4,2,Movie
+NFX100293,Show_293,Comedy,2014,Canada,Korean,TV-MA,123,120,4.9,2,TV Show
+NFX100294,Show_294,Comedy,2009,Canada,Hindi,PG-13,96,18,4.6,2,Movie
+NFX100295,Show_295,Thriller,2009,United States,Japanese,R,86,195,4.8,3,Movie
+NFX100296,Show_296,Sci-Fi,2023,United Kingdom,Korean,TV-MA,114,116,8.8,4,Movie
+NFX100297,Show_297,Horror,1995,Japan,Hindi,TV-MA,175,65,6.9,6,TV Show
+NFX100298,Show_298,Romance,2014,Spain,English,PG-13,88,163,6.6,4,TV Show
+NFX100299,Show_299,Documentary,2024,Japan,Japanese,R,79,99,4.6,4,TV Show
+NFX100300,Show_300,Drama,2001,Canada,Spanish,TV-MA,84,21,7.6,3,TV Show
+NFX100301,Show_301,Drama,2021,Japan,Korean,TV-MA,129,128,8.8,7,Movie
+NFX100302,Show_302,Action,1998,United States,Hindi,R,122,28,8.6,7,TV Show
+NFX100303,Show_303,Sci-Fi,2023,United States,English,TV-PG,95,120,7.4,3,Movie
+NFX100304,Show_304,Comedy,2000,Canada,Spanish,TV-MA,61,155,4.4,2,TV Show
+NFX100305,Show_305,Romance,2019,Canada,Hindi,TV-14,81,86,4.6,1,TV Show
+NFX100306,Show_306,Thriller,1995,Spain,Hindi,R,155,54,4.3,5,TV Show
+NFX100307,Show_307,Comedy,2023,Spain,Spanish,TV-MA,75,83,5.4,5,TV Show
+NFX100308,Show_308,Documentary,1999,South Korea,English,PG-13,77,83,4.7,6,TV Show
+NFX100309,Show_309,Sci-Fi,2021,Canada,English,TV-14,128,74,5.4,1,Movie
+NFX100310,Show_310,Documentary,2017,United Kingdom,Japanese,TV-MA,113,31,6.1,6,TV Show
+NFX100311,Show_311,Horror,1995,Japan,Korean,TV-14,159,19,9.2,2,TV Show
+NFX100312,Show_312,Thriller,2024,Canada,Spanish,TV-14,89,54,7.4,6,TV Show
+NFX100313,Show_313,Horror,1998,India,Spanish,TV-PG,104,40,8.6,1,TV Show
+NFX100314,Show_314,Action,2016,South Korea,Spanish,TV-14,78,12,7.9,1,Movie
+NFX100315,Show_315,Documentary,1996,India,English,TV-PG,146,83,4.6,5,TV Show
+NFX100316,Show_316,Action,2004,United States,Korean,R,93,135,8.0,7,Movie
+NFX100317,Show_317,Drama,1999,Spain,Japanese,TV-PG,72,194,5.5,2,TV Show
+NFX100318,Show_318,Horror,2021,Japan,Hindi,PG-13,102,51,7.5,3,Movie
+NFX100319,Show_319,Sci-Fi,2004,Canada,Hindi,TV-MA,121,109,5.9,6,Movie
+NFX100320,Show_320,Documentary,1995,India,Spanish,R,177,102,9.5,5,Movie
+NFX100321,Show_321,Romance,2016,Japan,Korean,R,152,100,5.4,6,Movie
+NFX100322,Show_322,Thriller,2000,United States,English,PG-13,159,193,5.5,6,Movie
+NFX100323,Show_323,Comedy,2007,Spain,Korean,TV-PG,81,164,9.1,3,TV Show
+NFX100324,Show_324,Sci-Fi,2009,United Kingdom,Korean,TV-MA,111,120,4.1,2,Movie
+NFX100325,Show_325,Sci-Fi,1998,South Korea,English,TV-PG,111,17,7.8,1,TV Show
+NFX100326,Show_326,Action,2007,Japan,Spanish,TV-14,170,5,8.0,4,Movie
+NFX100327,Show_327,Horror,2018,Japan,Korean,TV-PG,95,38,8.6,6,Movie
+NFX100328,Show_328,Documentary,2014,United Kingdom,Hindi,R,132,194,9.4,4,TV Show
+NFX100329,Show_329,Documentary,2018,Japan,English,TV-MA,162,83,9.4,2,Movie
+NFX100330,Show_330,Drama,2009,United States,Japanese,TV-PG,174,82,4.4,4,Movie
+NFX100331,Show_331,Drama,2023,United States,Spanish,TV-MA,78,125,8.5,6,Movie
+NFX100332,Show_332,Thriller,2002,United Kingdom,English,TV-MA,97,97,7.6,3,Movie
+NFX100333,Show_333,Action,1999,South Korea,Japanese,TV-14,129,102,7.6,4,TV Show
+NFX100334,Show_334,Sci-Fi,2023,Canada,Japanese,TV-14,175,86,4.7,2,Movie
+NFX100335,Show_335,Documentary,2009,India,Korean,R,170,163,7.6,2,Movie
+NFX100336,Show_336,Romance,1998,Canada,Korean,PG-13,138,196,9.4,7,TV Show
+NFX100337,Show_337,Action,2006,Japan,Korean,TV-MA,116,157,9.0,7,TV Show
+NFX100338,Show_338,Thriller,2007,India,English,PG-13,79,42,6.4,3,Movie
+NFX100339,Show_339,Thriller,1996,United Kingdom,English,R,68,18,4.2,4,Movie
+NFX100340,Show_340,Action,2021,United Kingdom,Spanish,TV-MA,91,140,6.0,4,TV Show
+NFX100341,Show_341,Thriller,2013,South Korea,Korean,TV-MA,63,95,8.5,7,Movie
+NFX100342,Show_342,Action,2013,India,Japanese,PG-13,109,58,7.9,1,TV Show
+NFX100343,Show_343,Comedy,1998,United States,Hindi,TV-PG,141,134,6.5,5,Movie
+NFX100344,Show_344,Action,1998,India,Spanish,TV-14,64,105,4.3,2,TV Show
+NFX100345,Show_345,Horror,2020,Japan,English,TV-PG,79,93,6.3,1,TV Show
+NFX100346,Show_346,Action,2005,United States,Spanish,PG-13,146,60,6.6,2,TV Show
+NFX100347,Show_347,Thriller,2021,Spain,Spanish,TV-14,134,98,9.1,1,Movie
+NFX100348,Show_348,Documentary,1999,Spain,Spanish,TV-PG,96,97,7.5,7,Movie
+NFX100349,Show_349,Horror,2014,Spain,Spanish,TV-14,81,88,5.7,7,Movie
+NFX100350,Show_350,Thriller,2005,United Kingdom,Hindi,TV-MA,117,89,6.9,5,Movie
+NFX100351,Show_351,Drama,2024,India,Korean,TV-PG,127,193,4.4,1,TV Show
+NFX100352,Show_352,Drama,2004,Spain,Japanese,TV-14,152,26,9.3,2,TV Show
+NFX100353,Show_353,Documentary,2002,Canada,Spanish,TV-14,103,39,6.0,4,TV Show
+NFX100354,Show_354,Documentary,2000,South Korea,Spanish,TV-14,93,20,6.6,2,Movie
+NFX100355,Show_355,Horror,2000,Canada,Spanish,TV-PG,136,54,6.0,6,Movie
+NFX100356,Show_356,Comedy,2002,Spain,Korean,R,101,126,7.8,7,Movie
+NFX100357,Show_357,Documentary,2017,South Korea,English,TV-PG,68,132,7.6,3,TV Show
+NFX100358,Show_358,Drama,2009,Japan,English,PG-13,165,117,7.9,3,Movie
+NFX100359,Show_359,Action,2020,Canada,Hindi,TV-PG,154,175,5.5,7,Movie
+NFX100360,Show_360,Thriller,2008,India,English,TV-14,66,21,5.7,6,TV Show
+NFX100361,Show_361,Drama,2005,India,Spanish,TV-MA,127,84,4.7,3,TV Show
+NFX100362,Show_362,Drama,2006,Canada,Spanish,TV-PG,78,190,7.6,7,Movie
+NFX100363,Show_363,Comedy,2020,Spain,Spanish,TV-PG,165,134,4.2,3,TV Show
+NFX100364,Show_364,Horror,2007,India,Hindi,TV-14,153,136,7.3,7,Movie
+NFX100365,Show_365,Horror,2002,Japan,Spanish,TV-MA,90,89,8.8,5,TV Show
+NFX100366,Show_366,Sci-Fi,2024,United States,English,TV-MA,94,171,8.9,4,TV Show
+NFX100367,Show_367,Comedy,2012,Spain,Korean,PG-13,116,98,6.5,4,TV Show
+NFX100368,Show_368,Action,2019,Japan,Korean,TV-PG,144,138,6.5,2,Movie
+NFX100369,Show_369,Horror,1995,South Korea,Japanese,TV-MA,120,85,4.4,6,Movie
+NFX100370,Show_370,Thriller,2009,Japan,English,TV-MA,90,73,7.7,7,Movie
+NFX100371,Show_371,Documentary,2002,Spain,Spanish,R,142,73,8.5,1,TV Show
+NFX100372,Show_372,Comedy,2022,South Korea,Korean,R,154,152,5.3,2,TV Show
+NFX100373,Show_373,Documentary,2005,Spain,English,TV-MA,112,196,6.3,2,TV Show
+NFX100374,Show_374,Drama,2006,India,Korean,PG-13,91,20,8.6,7,TV Show
+NFX100375,Show_375,Thriller,2006,United States,Spanish,TV-MA,125,55,8.8,7,Movie
+NFX100376,Show_376,Thriller,1998,Spain,Korean,TV-14,118,109,5.3,2,Movie
+NFX100377,Show_377,Drama,2010,Spain,Japanese,TV-PG,175,169,7.0,2,Movie
+NFX100378,Show_378,Comedy,1998,India,Japanese,PG-13,69,174,5.1,4,TV Show
+NFX100379,Show_379,Drama,1999,United Kingdom,Korean,TV-14,61,189,4.6,1,TV Show
+NFX100380,Show_380,Documentary,2018,India,English,PG-13,125,70,9.0,2,Movie
+NFX100381,Show_381,Sci-Fi,1999,South Korea,English,TV-14,119,13,8.5,4,TV Show
+NFX100382,Show_382,Thriller,2002,India,English,TV-PG,147,111,8.2,2,Movie
+NFX100383,Show_383,Romance,2004,India,Korean,TV-PG,76,104,4.3,3,TV Show
+NFX100384,Show_384,Romance,2011,United States,English,R,155,90,8.6,2,TV Show
+NFX100385,Show_385,Documentary,2022,India,Spanish,TV-14,75,68,6.4,7,Movie
+NFX100386,Show_386,Action,2020,Spain,Japanese,R,75,26,5.9,6,Movie
+NFX100387,Show_387,Horror,2003,United States,Spanish,TV-14,105,166,7.0,6,TV Show
+NFX100388,Show_388,Drama,2016,Canada,English,R,98,187,4.5,2,Movie
+NFX100389,Show_389,Drama,2013,United Kingdom,Spanish,TV-PG,176,161,8.2,5,Movie
+NFX100390,Show_390,Action,2023,United States,English,PG-13,90,170,7.2,3,TV Show
+NFX100391,Show_391,Action,2008,South Korea,Korean,R,166,114,5.0,1,TV Show
+NFX100392,Show_392,Documentary,2002,Canada,Spanish,TV-14,147,101,5.0,2,TV Show
+NFX100393,Show_393,Documentary,2003,United States,Korean,TV-14,60,22,5.0,1,Movie
+NFX100394,Show_394,Action,2016,United States,Korean,TV-PG,70,75,4.3,3,TV Show
+NFX100395,Show_395,Thriller,2005,United Kingdom,Hindi,TV-14,178,197,7.2,2,TV Show
+NFX100396,Show_396,Documentary,2017,Spain,English,TV-MA,144,131,8.6,5,TV Show
+NFX100397,Show_397,Sci-Fi,1995,South Korea,Japanese,PG-13,63,101,4.1,4,TV Show
+NFX100398,Show_398,Documentary,2008,Japan,English,R,130,5,4.3,5,TV Show
+NFX100399,Show_399,Drama,1999,Japan,Japanese,PG-13,85,136,7.2,7,Movie
+NFX100400,Show_400,Documentary,2015,United States,English,TV-PG,170,8,8.5,5,TV Show
+NFX100401,Show_401,Thriller,2020,India,Korean,R,109,129,5.8,4,TV Show
+NFX100402,Show_402,Action,2008,South Korea,Spanish,R,71,86,5.9,7,Movie
+NFX100403,Show_403,Drama,1998,Canada,Spanish,TV-MA,154,31,7.3,4,TV Show
+NFX100404,Show_404,Documentary,2016,India,Hindi,TV-PG,140,175,5.5,6,TV Show
+NFX100405,Show_405,Thriller,2017,India,Japanese,TV-14,156,63,4.1,4,Movie
+NFX100406,Show_406,Sci-Fi,2019,South Korea,Japanese,TV-MA,134,36,8.0,2,TV Show
+NFX100407,Show_407,Documentary,1995,Spain,Japanese,TV-MA,151,165,7.4,1,Movie
+NFX100408,Show_408,Thriller,2016,United States,Korean,PG-13,155,32,7.2,6,TV Show
+NFX100409,Show_409,Sci-Fi,2017,United States,Japanese,PG-13,124,110,8.1,6,Movie
+NFX100410,Show_410,Action,2013,United States,Spanish,PG-13,106,109,7.7,1,Movie
+NFX100411,Show_411,Documentary,2002,United States,Korean,TV-MA,151,187,5.1,6,TV Show
+NFX100412,Show_412,Sci-Fi,2009,Japan,English,TV-14,112,192,5.9,4,Movie
+NFX100413,Show_413,Drama,2015,United States,Japanese,R,165,74,4.7,5,Movie
+NFX100414,Show_414,Action,2009,Japan,Japanese,PG-13,130,66,4.7,3,TV Show
+NFX100415,Show_415,Drama,2003,Japan,English,TV-14,61,38,7.7,4,TV Show
+NFX100416,Show_416,Romance,2015,Spain,Japanese,TV-PG,165,91,8.7,7,Movie
+NFX100417,Show_417,Comedy,2003,United States,English,PG-13,83,118,9.3,7,TV Show
+NFX100418,Show_418,Documentary,2004,United Kingdom,Korean,R,63,110,7.5,5,Movie
+NFX100419,Show_419,Sci-Fi,2014,Canada,Spanish,TV-PG,167,60,5.0,5,Movie
+NFX100420,Show_420,Comedy,2019,India,English,TV-PG,78,117,4.6,6,TV Show
+NFX100421,Show_421,Comedy,2015,Japan,Hindi,R,85,17,8.5,2,TV Show
+NFX100422,Show_422,Sci-Fi,2020,South Korea,English,PG-13,134,188,7.2,2,Movie
+NFX100423,Show_423,Action,2003,South Korea,Japanese,TV-MA,99,22,7.4,6,TV Show
+NFX100424,Show_424,Documentary,1997,Canada,Korean,R,109,186,8.3,6,TV Show
+NFX100425,Show_425,Romance,2014,South Korea,Korean,R,102,117,7.9,1,Movie
+NFX100426,Show_426,Drama,2019,United Kingdom,English,R,134,175,8.6,1,Movie
+NFX100427,Show_427,Thriller,2020,South Korea,Spanish,TV-PG,168,43,4.3,3,Movie
+NFX100428,Show_428,Drama,2005,India,Hindi,TV-14,126,193,8.1,3,Movie
+NFX100429,Show_429,Thriller,2000,India,Korean,TV-MA,71,174,8.7,3,Movie
+NFX100430,Show_430,Drama,1996,Japan,Japanese,PG-13,126,83,5.6,3,Movie
+NFX100431,Show_431,Sci-Fi,2001,United States,Japanese,PG-13,165,150,7.5,5,TV Show
+NFX100432,Show_432,Romance,2012,Spain,Spanish,TV-14,86,155,5.7,5,Movie
+NFX100433,Show_433,Documentary,2021,United Kingdom,Korean,R,172,186,9.3,1,TV Show
+NFX100434,Show_434,Thriller,1996,Japan,English,TV-MA,113,34,4.2,2,TV Show
+NFX100435,Show_435,Documentary,2021,United Kingdom,Japanese,PG-13,125,102,7.2,6,Movie
+NFX100436,Show_436,Documentary,2011,United States,Spanish,PG-13,108,62,4.9,7,TV Show
+NFX100437,Show_437,Documentary,2005,South Korea,Korean,R,75,71,7.9,2,Movie
+NFX100438,Show_438,Horror,2021,South Korea,Korean,TV-14,61,75,5.0,4,TV Show
+NFX100439,Show_439,Action,2006,Spain,Korean,TV-MA,119,150,5.3,5,Movie
+NFX100440,Show_440,Drama,2021,United States,Korean,TV-14,113,110,6.7,3,Movie
+NFX100441,Show_441,Documentary,2013,Japan,Korean,TV-14,89,11,9.0,3,Movie
+NFX100442,Show_442,Drama,2016,Spain,Japanese,TV-MA,143,44,5.2,4,Movie
+NFX100443,Show_443,Documentary,2018,United States,Spanish,TV-MA,97,74,4.8,2,TV Show
+NFX100444,Show_444,Thriller,2019,Canada,Korean,PG-13,87,197,8.2,3,TV Show
+NFX100445,Show_445,Action,2001,India,Hindi,PG-13,84,72,6.8,2,TV Show
+NFX100446,Show_446,Action,2014,Spain,Hindi,TV-MA,155,53,9.0,6,TV Show
+NFX100447,Show_447,Sci-Fi,2000,Spain,Spanish,TV-PG,69,56,4.8,4,TV Show
+NFX100448,Show_448,Horror,2015,Japan,English,PG-13,119,118,7.6,7,Movie
+NFX100449,Show_449,Sci-Fi,2018,United Kingdom,English,TV-PG,101,111,5.3,2,Movie
+NFX100450,Show_450,Sci-Fi,1995,Canada,English,TV-MA,99,33,4.9,6,Movie
+NFX100451,Show_451,Sci-Fi,2011,Japan,Hindi,PG-13,156,153,7.8,2,Movie
+NFX100452,Show_452,Sci-Fi,2023,United States,English,TV-14,136,82,7.3,2,Movie
+NFX100453,Show_453,Sci-Fi,2005,United States,Japanese,TV-MA,179,13,8.2,3,TV Show
+NFX100454,Show_454,Romance,2016,United States,Korean,R,164,179,5.7,1,Movie
+NFX100455,Show_455,Action,2020,United States,Hindi,TV-PG,177,80,6.5,5,Movie
+NFX100456,Show_456,Sci-Fi,2022,United Kingdom,Spanish,TV-MA,101,46,6.2,2,TV Show
+NFX100457,Show_457,Documentary,2012,Canada,Spanish,TV-MA,106,183,9.4,2,TV Show
+NFX100458,Show_458,Action,2015,South Korea,Korean,PG-13,96,188,5.6,2,Movie
+NFX100459,Show_459,Action,2011,India,Hindi,PG-13,177,183,5.6,1,Movie
+NFX100460,Show_460,Comedy,2001,United Kingdom,English,PG-13,139,132,6.0,6,TV Show
+NFX100461,Show_461,Romance,2011,United Kingdom,English,R,168,24,7.1,7,Movie
+NFX100462,Show_462,Sci-Fi,2014,South Korea,Japanese,PG-13,81,159,5.4,7,Movie
+NFX100463,Show_463,Drama,2003,South Korea,Japanese,TV-MA,116,170,9.0,4,Movie
+NFX100464,Show_464,Thriller,2011,India,English,PG-13,143,76,5.5,3,TV Show
+NFX100465,Show_465,Horror,2014,India,Spanish,TV-14,173,69,8.9,1,Movie
+NFX100466,Show_466,Documentary,2016,South Korea,Spanish,PG-13,166,186,4.6,6,Movie
+NFX100467,Show_467,Drama,2016,United States,Japanese,R,86,117,7.6,2,TV Show
+NFX100468,Show_468,Romance,2022,United Kingdom,Korean,TV-14,100,28,9.0,6,TV Show
+NFX100469,Show_469,Thriller,2023,Japan,English,TV-MA,139,132,4.9,1,TV Show
+NFX100470,Show_470,Romance,2002,India,Japanese,TV-MA,93,179,9.3,1,Movie
+NFX100471,Show_471,Documentary,2011,India,Japanese,TV-PG,91,87,6.5,1,TV Show
+NFX100472,Show_472,Action,2001,South Korea,English,TV-14,149,67,9.2,4,Movie
+NFX100473,Show_473,Thriller,1995,Canada,English,TV-PG,148,189,7.7,5,TV Show
+NFX100474,Show_474,Action,2007,Japan,Spanish,TV-14,125,187,5.7,3,Movie
+NFX100475,Show_475,Documentary,2024,Japan,Korean,TV-14,71,64,5.0,4,TV Show
+NFX100476,Show_476,Drama,2017,India,Korean,R,99,103,5.7,4,Movie
+NFX100477,Show_477,Documentary,2013,United States,English,TV-PG,132,66,4.5,5,Movie
+NFX100478,Show_478,Drama,2021,Canada,Hindi,R,135,34,4.8,4,TV Show
+NFX100479,Show_479,Thriller,2018,Japan,Japanese,TV-14,149,26,4.6,1,TV Show
+NFX100480,Show_480,Thriller,2013,India,Japanese,TV-MA,132,130,6.3,1,Movie
+NFX100481,Show_481,Sci-Fi,2024,Japan,English,TV-14,69,161,8.4,6,TV Show
+NFX100482,Show_482,Romance,2024,Spain,Hindi,R,155,173,4.8,2,Movie
+NFX100483,Show_483,Sci-Fi,2023,Canada,Spanish,TV-PG,157,46,4.7,4,TV Show
+NFX100484,Show_484,Romance,2011,Canada,English,TV-PG,107,102,7.5,2,TV Show
+NFX100485,Show_485,Sci-Fi,2007,Spain,English,R,79,197,5.1,3,Movie
+NFX100486,Show_486,Action,2023,United Kingdom,Japanese,TV-PG,98,35,4.5,7,TV Show
+NFX100487,Show_487,Thriller,2024,Spain,English,PG-13,119,162,4.9,1,TV Show
+NFX100488,Show_488,Drama,2010,South Korea,English,TV-MA,125,116,9.1,6,Movie
+NFX100489,Show_489,Romance,2002,South Korea,English,TV-MA,124,150,8.5,3,Movie
+NFX100490,Show_490,Documentary,2013,India,Japanese,TV-MA,110,126,5.9,6,TV Show
+NFX100491,Show_491,Romance,2012,Canada,Spanish,TV-PG,95,21,7.6,7,Movie
+NFX100492,Show_492,Drama,1995,United Kingdom,Spanish,TV-PG,83,42,7.0,7,TV Show
+NFX100493,Show_493,Sci-Fi,2008,United Kingdom,English,TV-14,177,146,7.7,5,TV Show
+NFX100494,Show_494,Romance,2013,Japan,Japanese,TV-14,86,114,7.8,1,Movie
+NFX100495,Show_495,Horror,2009,Japan,Spanish,TV-MA,61,188,7.5,3,Movie
+NFX100496,Show_496,Action,2012,Spain,Spanish,PG-13,90,26,5.5,5,Movie
+NFX100497,Show_497,Thriller,1996,United Kingdom,Spanish,TV-14,116,199,4.2,7,Movie
+NFX100498,Show_498,Drama,2016,Spain,Japanese,TV-14,137,60,6.5,3,Movie
+NFX100499,Show_499,Thriller,2022,Spain,Japanese,TV-PG,125,123,8.9,6,Movie
+NFX100500,Show_500,Horror,2011,Japan,English,PG-13,88,151,7.1,5,TV Show
+NFX100501,Show_501,Romance,2012,Canada,Korean,TV-MA,74,61,8.6,5,TV Show
+NFX100502,Show_502,Romance,2024,Spain,Spanish,TV-14,71,176,9.5,1,Movie
+NFX100503,Show_503,Documentary,2000,United States,Korean,PG-13,160,39,4.9,2,TV Show
+NFX100504,Show_504,Horror,2013,Canada,Japanese,PG-13,87,118,7.8,6,TV Show
+NFX100505,Show_505,Drama,1998,United Kingdom,Japanese,TV-MA,143,129,7.7,6,TV Show
+NFX100506,Show_506,Documentary,1995,United Kingdom,Japanese,PG-13,162,133,9.4,5,TV Show
+NFX100507,Show_507,Action,2002,Spain,Korean,PG-13,83,56,9.4,5,Movie
+NFX100508,Show_508,Documentary,2023,Canada,Japanese,PG-13,80,89,7.8,1,TV Show
+NFX100509,Show_509,Comedy,2017,Japan,English,TV-14,69,169,5.3,2,TV Show
+NFX100510,Show_510,Drama,2001,Japan,Japanese,TV-MA,169,69,8.4,6,Movie
+NFX100511,Show_511,Comedy,1997,South Korea,Hindi,PG-13,137,183,4.6,7,Movie
+NFX100512,Show_512,Horror,2004,United Kingdom,Korean,PG-13,160,133,8.3,4,Movie
+NFX100513,Show_513,Sci-Fi,2004,India,Hindi,TV-14,77,25,9.0,4,Movie
+NFX100514,Show_514,Comedy,2013,South Korea,Japanese,TV-MA,147,185,6.1,2,TV Show
+NFX100515,Show_515,Action,2008,Japan,English,TV-PG,73,20,7.5,3,Movie
+NFX100516,Show_516,Documentary,1996,Canada,Spanish,TV-14,93,127,6.4,1,TV Show
+NFX100517,Show_517,Sci-Fi,2022,Japan,Japanese,TV-MA,117,65,6.4,2,TV Show
+NFX100518,Show_518,Documentary,1995,Canada,English,PG-13,135,58,5.7,4,Movie
+NFX100519,Show_519,Comedy,2017,South Korea,Korean,TV-MA,81,172,8.2,5,Movie
+NFX100520,Show_520,Documentary,2017,United Kingdom,Hindi,TV-MA,179,30,9.1,4,Movie
+NFX100521,Show_521,Horror,2022,Japan,Hindi,TV-MA,129,84,9.2,5,Movie
+NFX100522,Show_522,Sci-Fi,2012,Spain,Hindi,TV-PG,95,69,5.0,1,Movie
+NFX100523,Show_523,Horror,2001,Canada,Korean,TV-MA,104,104,8.8,5,Movie
+NFX100524,Show_524,Comedy,2023,United Kingdom,English,TV-PG,95,78,8.1,2,TV Show
+NFX100525,Show_525,Horror,2002,India,Korean,PG-13,81,196,5.4,5,TV Show
+NFX100526,Show_526,Action,1995,Canada,Hindi,TV-PG,137,175,4.4,3,TV Show
+NFX100527,Show_527,Comedy,2019,South Korea,Japanese,PG-13,139,21,5.5,2,TV Show
+NFX100528,Show_528,Comedy,2017,India,Spanish,PG-13,120,125,9.0,1,Movie
+NFX100529,Show_529,Comedy,1997,India,Korean,TV-PG,159,191,7.5,2,Movie
+NFX100530,Show_530,Drama,2018,United States,Korean,TV-14,115,27,8.0,3,TV Show
+NFX100531,Show_531,Documentary,2017,Japan,English,R,148,139,5.4,1,TV Show
+NFX100532,Show_532,Drama,2021,Canada,English,TV-MA,155,176,8.0,4,TV Show
+NFX100533,Show_533,Drama,2023,India,Korean,R,92,185,4.2,3,Movie
+NFX100534,Show_534,Action,2002,United States,Hindi,TV-MA,104,75,6.1,1,Movie
+NFX100535,Show_535,Sci-Fi,2016,South Korea,Spanish,TV-MA,95,112,7.4,7,Movie
+NFX100536,Show_536,Documentary,2019,United Kingdom,English,PG-13,79,83,4.8,5,TV Show
+NFX100537,Show_537,Horror,2009,Spain,Hindi,TV-MA,77,166,8.5,2,TV Show
+NFX100538,Show_538,Romance,1999,Spain,Japanese,TV-MA,97,50,5.3,1,Movie
+NFX100539,Show_539,Comedy,1997,Canada,English,TV-PG,126,82,7.6,2,Movie
+NFX100540,Show_540,Horror,2013,India,Hindi,R,82,20,6.2,5,TV Show
+NFX100541,Show_541,Comedy,1995,Spain,Hindi,TV-PG,155,75,7.3,1,TV Show
+NFX100542,Show_542,Action,2022,Japan,Spanish,TV-MA,168,100,4.6,4,Movie
+NFX100543,Show_543,Comedy,2009,Spain,Spanish,PG-13,75,151,4.1,7,TV Show
+NFX100544,Show_544,Drama,2002,Spain,Japanese,TV-PG,118,6,9.0,7,Movie
+NFX100545,Show_545,Documentary,1996,Spain,Hindi,TV-PG,128,14,5.5,3,Movie
+NFX100546,Show_546,Romance,1997,United States,Hindi,TV-14,127,182,8.5,1,TV Show
+NFX100547,Show_547,Thriller,2018,India,Spanish,TV-MA,80,129,9.5,5,TV Show
+NFX100548,Show_548,Comedy,2008,Japan,English,PG-13,163,85,5.2,1,TV Show
+NFX100549,Show_549,Horror,2018,India,English,TV-PG,174,144,5.5,2,Movie
+NFX100550,Show_550,Drama,2008,Canada,Korean,TV-PG,137,74,7.6,6,TV Show
+NFX100551,Show_551,Thriller,2005,Canada,Spanish,PG-13,162,154,9.3,1,TV Show
+NFX100552,Show_552,Romance,2010,Canada,Korean,TV-MA,154,36,9.0,7,Movie
+NFX100553,Show_553,Thriller,1998,South Korea,Spanish,TV-14,137,109,6.8,7,Movie
+NFX100554,Show_554,Drama,2014,Spain,Japanese,TV-PG,129,88,8.4,7,TV Show
+NFX100555,Show_555,Documentary,1999,South Korea,Hindi,TV-14,71,133,4.7,4,Movie
+NFX100556,Show_556,Documentary,2016,United States,Japanese,R,75,186,9.4,1,Movie
+NFX100557,Show_557,Sci-Fi,2015,Canada,Spanish,TV-MA,140,62,9.3,3,Movie
+NFX100558,Show_558,Documentary,2008,Japan,Hindi,R,168,150,4.9,1,TV Show
+NFX100559,Show_559,Sci-Fi,2017,India,English,R,146,138,5.6,6,TV Show
+NFX100560,Show_560,Thriller,2010,Spain,English,R,73,49,4.6,7,Movie
+NFX100561,Show_561,Action,2012,United Kingdom,Korean,TV-MA,120,101,5.5,2,Movie
+NFX100562,Show_562,Horror,2001,Japan,Spanish,TV-MA,130,27,8.5,7,Movie
+NFX100563,Show_563,Horror,2004,Spain,Spanish,PG-13,105,27,6.1,1,TV Show
+NFX100564,Show_564,Thriller,2001,South Korea,English,TV-14,91,158,4.5,4,Movie
+NFX100565,Show_565,Comedy,1995,South Korea,Japanese,TV-14,74,139,5.9,5,Movie
+NFX100566,Show_566,Comedy,2017,Japan,Hindi,PG-13,103,83,9.4,1,TV Show
+NFX100567,Show_567,Documentary,2015,South Korea,Japanese,PG-13,76,48,7.5,1,Movie
+NFX100568,Show_568,Horror,2013,Canada,Japanese,R,100,31,6.3,3,TV Show
+NFX100569,Show_569,Horror,2010,United States,English,PG-13,113,30,4.9,4,TV Show
+NFX100570,Show_570,Sci-Fi,2023,India,English,TV-PG,170,101,9.4,6,TV Show
+NFX100571,Show_571,Action,2013,United States,English,TV-14,103,40,8.5,5,Movie
+NFX100572,Show_572,Drama,1998,Spain,Korean,PG-13,157,113,5.5,7,Movie
+NFX100573,Show_573,Comedy,2023,India,Japanese,TV-PG,64,59,4.4,2,TV Show
+NFX100574,Show_574,Horror,2022,India,Spanish,TV-PG,168,196,4.3,1,Movie
+NFX100575,Show_575,Sci-Fi,2012,United States,Hindi,TV-PG,86,189,4.7,6,TV Show
+NFX100576,Show_576,Romance,1996,Japan,Korean,TV-PG,175,73,7.2,5,Movie
+NFX100577,Show_577,Sci-Fi,1995,India,Spanish,R,146,65,9.1,2,TV Show
+NFX100578,Show_578,Comedy,2009,United States,Japanese,TV-PG,163,134,6.7,6,TV Show
+NFX100579,Show_579,Comedy,1999,India,English,R,137,59,8.6,4,Movie
+NFX100580,Show_580,Sci-Fi,2014,United Kingdom,Japanese,R,138,126,6.5,4,Movie
+NFX100581,Show_581,Drama,2005,Japan,Hindi,TV-PG,102,101,7.9,5,Movie
+NFX100582,Show_582,Thriller,2004,Canada,Korean,TV-14,156,84,8.0,7,Movie
+NFX100583,Show_583,Comedy,1996,India,Korean,TV-PG,176,91,5.0,2,TV Show
+NFX100584,Show_584,Sci-Fi,1997,United Kingdom,Hindi,TV-PG,90,42,6.0,4,TV Show
+NFX100585,Show_585,Horror,2017,Canada,Spanish,TV-PG,158,123,7.5,5,Movie
+NFX100586,Show_586,Sci-Fi,2017,Canada,Spanish,TV-14,76,82,4.4,4,Movie
+NFX100587,Show_587,Action,2006,Spain,Korean,TV-MA,151,161,6.0,4,TV Show
+NFX100588,Show_588,Thriller,2014,India,Korean,TV-MA,142,158,6.9,6,Movie
+NFX100589,Show_589,Romance,1999,United States,English,R,169,39,9.5,6,Movie
+NFX100590,Show_590,Drama,1999,India,Spanish,R,113,83,6.6,4,Movie
+NFX100591,Show_591,Documentary,2000,United Kingdom,Hindi,TV-14,121,71,8.5,3,Movie
+NFX100592,Show_592,Romance,2024,Canada,Spanish,PG-13,146,91,6.4,6,TV Show
+NFX100593,Show_593,Thriller,2003,India,English,TV-MA,91,161,8.4,2,TV Show
+NFX100594,Show_594,Thriller,1996,United States,Korean,R,99,38,7.3,5,Movie
+NFX100595,Show_595,Thriller,2015,Spain,Korean,TV-MA,72,101,8.9,5,TV Show
+NFX100596,Show_596,Romance,2006,India,English,TV-14,143,173,6.3,7,Movie
+NFX100597,Show_597,Horror,1997,Japan,Hindi,TV-14,94,173,7.3,2,Movie
+NFX100598,Show_598,Thriller,2014,Spain,Korean,PG-13,64,155,7.5,2,Movie
+NFX100599,Show_599,Sci-Fi,2020,United States,Japanese,PG-13,132,75,6.3,2,TV Show
+NFX100600,Show_600,Romance,2016,United Kingdom,Korean,TV-14,88,7,4.8,7,TV Show
+NFX100601,Show_601,Documentary,2006,Canada,Japanese,R,129,62,4.5,2,TV Show
+NFX100602,Show_602,Thriller,2018,India,English,TV-MA,84,36,4.1,1,TV Show
+NFX100603,Show_603,Sci-Fi,2011,United States,English,TV-PG,154,35,8.8,7,TV Show
+NFX100604,Show_604,Horror,2004,Spain,Korean,PG-13,81,86,5.3,5,Movie
+NFX100605,Show_605,Action,2024,Japan,Spanish,TV-PG,125,47,5.2,1,Movie
+NFX100606,Show_606,Horror,2018,United States,Japanese,R,104,139,8.0,7,TV Show
+NFX100607,Show_607,Documentary,2021,South Korea,Hindi,PG-13,128,109,5.8,4,TV Show
+NFX100608,Show_608,Thriller,2008,Japan,Korean,TV-PG,150,5,6.8,4,TV Show
+NFX100609,Show_609,Documentary,2017,Spain,Hindi,R,148,65,4.9,5,Movie
+NFX100610,Show_610,Romance,2011,United Kingdom,Korean,TV-MA,131,18,9.3,4,TV Show
+NFX100611,Show_611,Comedy,2012,Canada,Spanish,R,178,184,8.7,2,Movie
+NFX100612,Show_612,Thriller,2013,Spain,Spanish,PG-13,60,10,8.8,7,Movie
+NFX100613,Show_613,Comedy,2011,United Kingdom,Spanish,TV-14,143,107,6.2,1,TV Show
+NFX100614,Show_614,Sci-Fi,2008,India,Spanish,TV-MA,103,14,8.2,2,Movie
+NFX100615,Show_615,Action,2003,United States,English,TV-PG,146,75,4.8,4,Movie
+NFX100616,Show_616,Drama,2002,South Korea,English,PG-13,155,94,4.0,6,TV Show
+NFX100617,Show_617,Documentary,1996,Japan,Japanese,TV-14,134,162,4.1,1,Movie
+NFX100618,Show_618,Horror,2007,Japan,Hindi,R,98,153,7.2,2,TV Show
+NFX100619,Show_619,Action,2019,United States,Korean,TV-14,170,130,6.5,7,Movie
+NFX100620,Show_620,Thriller,2001,South Korea,Korean,PG-13,113,192,6.8,5,TV Show
+NFX100621,Show_621,Comedy,2003,United States,English,PG-13,147,101,4.0,2,TV Show
+NFX100622,Show_622,Horror,2016,India,Korean,TV-14,134,78,6.3,6,Movie
+NFX100623,Show_623,Comedy,2016,United Kingdom,English,R,88,119,7.9,4,TV Show
+NFX100624,Show_624,Romance,2005,Spain,Japanese,TV-14,113,195,6.4,1,Movie
+NFX100625,Show_625,Comedy,2008,Japan,Hindi,PG-13,149,174,8.0,5,Movie
+NFX100626,Show_626,Romance,1998,India,Japanese,PG-13,75,55,5.3,1,TV Show
+NFX100627,Show_627,Sci-Fi,2020,United Kingdom,Spanish,TV-PG,158,196,8.5,5,Movie
+NFX100628,Show_628,Horror,2020,India,Spanish,TV-PG,79,60,7.2,7,TV Show
+NFX100629,Show_629,Horror,2023,South Korea,Spanish,TV-MA,105,45,5.2,1,Movie
+NFX100630,Show_630,Drama,2007,Japan,Japanese,PG-13,126,36,5.3,4,Movie
+NFX100631,Show_631,Thriller,1996,Spain,Korean,TV-PG,124,19,7.5,7,TV Show
+NFX100632,Show_632,Romance,2017,United States,Hindi,TV-14,117,66,8.6,7,Movie
+NFX100633,Show_633,Drama,1999,United States,Spanish,R,112,159,6.3,5,Movie
+NFX100634,Show_634,Comedy,2005,United Kingdom,Spanish,TV-14,170,32,5.4,3,Movie
+NFX100635,Show_635,Comedy,2000,Spain,Spanish,R,60,68,8.8,1,Movie
+NFX100636,Show_636,Drama,2012,Canada,Hindi,TV-PG,140,191,7.7,1,Movie
+NFX100637,Show_637,Horror,2015,South Korea,Spanish,TV-MA,125,190,6.5,2,Movie
+NFX100638,Show_638,Comedy,2004,United Kingdom,Hindi,TV-14,88,134,6.7,5,Movie
+NFX100639,Show_639,Documentary,1998,Canada,Spanish,TV-14,143,131,5.1,6,Movie
+NFX100640,Show_640,Sci-Fi,2003,India,Japanese,TV-14,129,40,7.4,3,TV Show
+NFX100641,Show_641,Sci-Fi,2000,South Korea,Japanese,R,67,118,6.0,4,Movie
+NFX100642,Show_642,Documentary,1996,India,Hindi,TV-PG,88,17,9.5,2,Movie
+NFX100643,Show_643,Drama,2011,Spain,Japanese,TV-14,171,19,6.6,3,TV Show
+NFX100644,Show_644,Documentary,1999,Japan,Hindi,TV-14,110,93,6.7,5,TV Show
+NFX100645,Show_645,Romance,2019,South Korea,Japanese,TV-MA,92,192,7.1,3,TV Show
+NFX100646,Show_646,Romance,2000,Canada,Japanese,TV-MA,62,26,9.0,7,Movie
+NFX100647,Show_647,Drama,2020,Japan,Hindi,TV-PG,119,195,8.4,1,TV Show
+NFX100648,Show_648,Documentary,2006,United States,Korean,TV-PG,94,78,6.5,7,TV Show
+NFX100649,Show_649,Romance,2017,Canada,Japanese,PG-13,128,29,8.0,1,Movie
+NFX100650,Show_650,Horror,2015,United Kingdom,Spanish,TV-MA,150,105,7.2,2,Movie
+NFX100651,Show_651,Documentary,2004,United States,Korean,PG-13,167,180,6.7,5,TV Show
+NFX100652,Show_652,Horror,2016,United States,Hindi,R,135,175,5.1,5,TV Show
+NFX100653,Show_653,Romance,2015,United Kingdom,Korean,PG-13,143,121,6.6,3,Movie
+NFX100654,Show_654,Sci-Fi,2021,South Korea,English,TV-14,168,170,5.4,2,Movie
+NFX100655,Show_655,Romance,2019,United States,English,PG-13,79,45,9.0,5,Movie
+NFX100656,Show_656,Horror,2000,Spain,Japanese,TV-PG,132,177,5.8,6,Movie
+NFX100657,Show_657,Action,2021,Canada,Japanese,R,98,92,9.2,6,Movie
+NFX100658,Show_658,Thriller,2002,Japan,Spanish,TV-14,63,172,6.9,7,TV Show
+NFX100659,Show_659,Comedy,1996,United States,Korean,PG-13,174,114,7.5,1,Movie
+NFX100660,Show_660,Documentary,2006,Canada,English,R,177,124,7.0,3,Movie
+NFX100661,Show_661,Action,2007,India,Japanese,R,78,101,4.7,4,Movie
+NFX100662,Show_662,Romance,2019,Canada,Korean,TV-14,161,149,6.1,1,Movie
+NFX100663,Show_663,Sci-Fi,2015,Japan,Japanese,PG-13,150,61,4.5,2,Movie
+NFX100664,Show_664,Drama,2001,Canada,Japanese,R,104,134,7.4,5,TV Show
+NFX100665,Show_665,Romance,2004,United Kingdom,English,R,102,100,6.5,1,Movie
+NFX100666,Show_666,Sci-Fi,2007,Japan,English,TV-MA,72,125,8.3,4,TV Show
+NFX100667,Show_667,Thriller,2011,South Korea,Japanese,R,72,66,5.2,4,Movie
+NFX100668,Show_668,Romance,2020,India,Hindi,TV-MA,119,141,4.9,6,TV Show
+NFX100669,Show_669,Horror,2015,United Kingdom,Japanese,PG-13,116,72,6.2,2,TV Show
+NFX100670,Show_670,Drama,2022,South Korea,Japanese,PG-13,145,85,9.1,1,Movie
+NFX100671,Show_671,Sci-Fi,2024,Canada,Spanish,PG-13,151,21,7.9,3,Movie
+NFX100672,Show_672,Sci-Fi,2020,Japan,Spanish,TV-PG,111,121,6.3,1,Movie
+NFX100673,Show_673,Sci-Fi,2008,India,Spanish,PG-13,170,54,6.8,6,Movie
+NFX100674,Show_674,Thriller,1996,United Kingdom,Hindi,R,112,116,4.5,7,Movie
+NFX100675,Show_675,Romance,2022,South Korea,Hindi,TV-14,168,98,9.4,4,TV Show
+NFX100676,Show_676,Thriller,2016,South Korea,Japanese,TV-MA,145,172,7.7,2,Movie
+NFX100677,Show_677,Documentary,2005,India,Spanish,TV-PG,102,190,5.6,2,Movie
+NFX100678,Show_678,Comedy,1995,Spain,Hindi,PG-13,142,89,7.2,3,TV Show
+NFX100679,Show_679,Comedy,2013,Canada,English,PG-13,131,153,4.6,2,Movie
+NFX100680,Show_680,Documentary,2015,India,Japanese,TV-14,175,150,9.3,6,TV Show
+NFX100681,Show_681,Romance,1998,South Korea,Korean,TV-14,131,187,5.0,6,Movie
+NFX100682,Show_682,Horror,2013,United States,Japanese,TV-PG,101,161,7.6,6,TV Show
+NFX100683,Show_683,Thriller,2020,United Kingdom,Korean,TV-MA,149,156,5.3,2,Movie
+NFX100684,Show_684,Drama,2023,India,Spanish,PG-13,171,78,7.9,2,TV Show
+NFX100685,Show_685,Sci-Fi,2015,Spain,Korean,TV-PG,174,113,8.3,6,TV Show
+NFX100686,Show_686,Sci-Fi,2005,South Korea,Spanish,R,85,149,7.7,2,Movie
+NFX100687,Show_687,Romance,2002,Canada,English,R,82,22,7.4,2,Movie
+NFX100688,Show_688,Horror,2005,South Korea,Korean,TV-PG,102,46,8.9,4,Movie
+NFX100689,Show_689,Comedy,1998,Canada,Japanese,PG-13,136,105,4.4,1,TV Show
+NFX100690,Show_690,Comedy,2011,India,Spanish,TV-PG,87,49,5.8,5,TV Show
+NFX100691,Show_691,Sci-Fi,2021,Canada,Japanese,PG-13,68,86,5.4,2,TV Show
+NFX100692,Show_692,Romance,2001,Japan,Hindi,TV-14,79,21,9.4,5,Movie
+NFX100693,Show_693,Thriller,2002,Japan,Spanish,TV-PG,115,77,6.1,7,Movie
+NFX100694,Show_694,Comedy,1997,Japan,Korean,PG-13,142,18,8.0,5,TV Show
+NFX100695,Show_695,Thriller,2016,Spain,Spanish,TV-PG,171,181,7.8,4,Movie
+NFX100696,Show_696,Horror,1996,Spain,Japanese,TV-PG,98,161,5.2,2,TV Show
+NFX100697,Show_697,Comedy,2017,United States,English,PG-13,110,136,5.3,6,Movie
+NFX100698,Show_698,Comedy,2009,Spain,Spanish,PG-13,71,86,5.5,5,Movie
+NFX100699,Show_699,Action,2018,India,Korean,TV-MA,138,152,6.3,2,TV Show
+NFX100700,Show_700,Comedy,2016,South Korea,Hindi,TV-PG,154,124,5.3,3,Movie
+NFX100701,Show_701,Documentary,2016,South Korea,English,R,114,124,4.1,7,Movie
+NFX100702,Show_702,Drama,1999,United States,Hindi,TV-PG,137,51,8.8,6,Movie
+NFX100703,Show_703,Documentary,2018,Spain,Spanish,TV-PG,70,111,9.3,3,Movie
+NFX100704,Show_704,Romance,1995,Canada,Japanese,PG-13,85,112,5.9,3,Movie
+NFX100705,Show_705,Romance,2020,United States,Japanese,TV-PG,101,13,5.9,5,TV Show
+NFX100706,Show_706,Thriller,1998,Canada,Korean,TV-PG,86,83,4.0,3,Movie
+NFX100707,Show_707,Documentary,2009,Canada,Japanese,R,70,159,7.7,4,TV Show
+NFX100708,Show_708,Documentary,2014,United Kingdom,English,PG-13,97,19,8.5,4,Movie
+NFX100709,Show_709,Documentary,2013,South Korea,Japanese,TV-PG,157,23,4.8,5,Movie
+NFX100710,Show_710,Horror,1997,Japan,Korean,TV-14,102,94,4.9,2,TV Show
+NFX100711,Show_711,Comedy,2014,Spain,Spanish,TV-MA,78,184,8.3,1,TV Show
+NFX100712,Show_712,Drama,2005,Canada,Spanish,R,123,30,7.4,2,Movie
+NFX100713,Show_713,Thriller,2011,United Kingdom,Japanese,TV-PG,65,158,4.2,2,Movie
+NFX100714,Show_714,Documentary,2024,South Korea,Hindi,TV-14,105,158,7.4,2,TV Show
+NFX100715,Show_715,Documentary,2021,Japan,Spanish,TV-PG,175,178,5.7,2,TV Show
+NFX100716,Show_716,Action,2007,Canada,Japanese,TV-PG,161,96,6.0,6,TV Show
+NFX100717,Show_717,Thriller,2005,Canada,Korean,PG-13,172,181,8.2,1,TV Show
+NFX100718,Show_718,Documentary,1996,United States,Japanese,PG-13,101,86,8.5,6,Movie
+NFX100719,Show_719,Thriller,2003,United States,Spanish,PG-13,151,185,6.2,3,Movie
+NFX100720,Show_720,Comedy,2020,South Korea,Korean,TV-14,124,135,9.2,7,Movie
+NFX100721,Show_721,Action,1996,Japan,Japanese,TV-PG,158,198,6.2,2,Movie
+NFX100722,Show_722,Thriller,2015,Canada,English,TV-MA,163,46,8.2,7,Movie
+NFX100723,Show_723,Drama,2003,South Korea,Korean,R,131,23,6.7,4,TV Show
+NFX100724,Show_724,Drama,2003,South Korea,English,PG-13,118,21,8.9,5,TV Show
+NFX100725,Show_725,Romance,2002,India,Hindi,PG-13,111,165,9.0,5,TV Show
+NFX100726,Show_726,Action,2011,Spain,Korean,TV-PG,177,80,4.5,6,Movie
+NFX100727,Show_727,Action,1995,United States,English,TV-PG,106,181,9.2,6,TV Show
+NFX100728,Show_728,Romance,2019,Japan,Spanish,TV-14,179,188,8.5,4,Movie
+NFX100729,Show_729,Thriller,2023,Canada,Spanish,TV-14,66,67,8.4,2,Movie
+NFX100730,Show_730,Action,2005,South Korea,Hindi,PG-13,70,135,5.1,7,Movie
+NFX100731,Show_731,Drama,2002,Canada,Korean,TV-PG,162,111,8.4,7,TV Show
+NFX100732,Show_732,Drama,2004,India,Korean,TV-MA,120,53,8.7,1,Movie
+NFX100733,Show_733,Documentary,2019,Japan,Korean,R,127,59,5.6,3,Movie
+NFX100734,Show_734,Comedy,2001,South Korea,Hindi,TV-PG,84,158,9.2,5,TV Show
+NFX100735,Show_735,Action,1997,Canada,Korean,TV-PG,71,103,4.3,3,Movie
+NFX100736,Show_736,Thriller,1997,United States,Spanish,TV-14,85,56,4.8,1,TV Show
+NFX100737,Show_737,Romance,2012,Spain,English,R,161,104,7.0,6,Movie
+NFX100738,Show_738,Romance,1999,India,Spanish,PG-13,169,121,7.2,7,TV Show
+NFX100739,Show_739,Thriller,2006,Japan,Spanish,TV-PG,71,122,7.5,5,Movie
+NFX100740,Show_740,Horror,2006,India,English,PG-13,102,11,4.1,3,Movie
+NFX100741,Show_741,Sci-Fi,2013,United States,Spanish,TV-PG,110,50,9.3,6,TV Show
+NFX100742,Show_742,Comedy,2024,Japan,Hindi,PG-13,176,50,4.2,1,Movie
+NFX100743,Show_743,Romance,2000,India,English,R,96,104,4.8,3,TV Show
+NFX100744,Show_744,Action,1996,United Kingdom,Spanish,TV-14,105,148,4.1,7,Movie
+NFX100745,Show_745,Comedy,2006,United States,Japanese,R,112,156,7.1,2,TV Show
+NFX100746,Show_746,Action,2013,United States,Spanish,TV-MA,147,193,9.1,6,Movie
+NFX100747,Show_747,Horror,1999,United States,Hindi,TV-14,139,58,7.7,1,Movie
+NFX100748,Show_748,Drama,2006,United Kingdom,Korean,R,72,66,8.5,3,Movie
+NFX100749,Show_749,Comedy,2021,United Kingdom,Spanish,TV-MA,148,133,4.1,7,TV Show
+NFX100750,Show_750,Documentary,2021,Canada,Korean,TV-PG,177,53,7.0,2,TV Show
+NFX100751,Show_751,Romance,2011,South Korea,Japanese,TV-PG,113,29,6.5,2,TV Show
+NFX100752,Show_752,Comedy,2023,Spain,Spanish,PG-13,116,14,6.7,1,TV Show
+NFX100753,Show_753,Comedy,2011,India,English,TV-14,175,122,4.4,4,TV Show
+NFX100754,Show_754,Comedy,2004,Canada,Korean,TV-PG,177,148,7.8,7,Movie
+NFX100755,Show_755,Sci-Fi,2019,India,Japanese,TV-14,63,190,6.8,7,Movie
+NFX100756,Show_756,Comedy,2017,Spain,English,TV-PG,134,161,8.2,5,Movie
+NFX100757,Show_757,Action,2011,South Korea,English,PG-13,155,96,6.7,1,Movie
+NFX100758,Show_758,Drama,2009,United Kingdom,English,R,108,138,4.8,2,Movie
+NFX100759,Show_759,Horror,2006,South Korea,English,PG-13,66,148,7.6,2,TV Show
+NFX100760,Show_760,Thriller,2024,United Kingdom,Spanish,TV-MA,169,152,4.9,1,Movie
+NFX100761,Show_761,Comedy,2010,Spain,Spanish,TV-PG,70,84,8.8,4,TV Show
+NFX100762,Show_762,Romance,2018,South Korea,Spanish,TV-MA,151,75,7.4,5,Movie
+NFX100763,Show_763,Comedy,2013,Canada,Japanese,TV-MA,113,82,4.9,3,TV Show
+NFX100764,Show_764,Romance,2002,Japan,Japanese,TV-14,164,47,9.3,1,TV Show
+NFX100765,Show_765,Action,2015,Canada,Japanese,TV-PG,146,158,6.9,5,TV Show
+NFX100766,Show_766,Romance,2011,India,Hindi,TV-MA,104,94,4.4,7,Movie
+NFX100767,Show_767,Documentary,2017,Canada,Japanese,R,82,82,7.4,5,Movie
+NFX100768,Show_768,Thriller,1999,Spain,Spanish,TV-MA,173,165,5.4,6,Movie
+NFX100769,Show_769,Drama,2016,United States,Spanish,R,87,30,8.4,2,Movie
+NFX100770,Show_770,Romance,2010,India,Hindi,TV-14,166,125,8.5,3,TV Show
+NFX100771,Show_771,Romance,2000,South Korea,Hindi,TV-MA,170,49,9.4,1,TV Show
+NFX100772,Show_772,Drama,2002,India,Japanese,PG-13,116,67,6.8,2,TV Show
+NFX100773,Show_773,Thriller,2019,Japan,Korean,TV-14,85,199,6.5,6,TV Show
+NFX100774,Show_774,Comedy,2012,United Kingdom,Hindi,R,84,184,8.1,6,Movie
+NFX100775,Show_775,Romance,2019,South Korea,English,TV-14,113,72,4.7,2,TV Show
+NFX100776,Show_776,Drama,2006,India,Spanish,TV-MA,88,158,7.0,4,Movie
+NFX100777,Show_777,Documentary,2009,South Korea,English,TV-PG,142,6,7.0,5,TV Show
+NFX100778,Show_778,Documentary,2021,South Korea,Spanish,TV-PG,156,146,4.5,1,TV Show
+NFX100779,Show_779,Action,2020,South Korea,Spanish,R,95,112,6.3,1,TV Show
+NFX100780,Show_780,Drama,2003,United Kingdom,Hindi,R,73,34,8.7,1,Movie
+NFX100781,Show_781,Action,2007,Spain,Hindi,TV-PG,137,53,8.7,2,Movie
+NFX100782,Show_782,Documentary,2020,Canada,English,R,94,144,4.5,7,TV Show
+NFX100783,Show_783,Thriller,2009,South Korea,Spanish,TV-14,89,48,4.5,4,TV Show
+NFX100784,Show_784,Comedy,2004,United States,English,PG-13,151,165,5.4,3,TV Show
+NFX100785,Show_785,Drama,2010,Spain,Korean,PG-13,76,17,8.8,6,Movie
+NFX100786,Show_786,Horror,2001,Japan,English,TV-14,126,82,4.7,2,Movie
+NFX100787,Show_787,Documentary,2011,United Kingdom,Japanese,PG-13,139,130,8.0,7,Movie
+NFX100788,Show_788,Documentary,2017,India,English,TV-MA,169,102,4.6,3,TV Show
+NFX100789,Show_789,Horror,2020,United Kingdom,Japanese,TV-14,89,30,7.4,6,Movie
+NFX100790,Show_790,Sci-Fi,2015,India,Japanese,R,175,153,6.0,6,TV Show
+NFX100791,Show_791,Documentary,2016,United Kingdom,Japanese,TV-14,152,160,8.3,4,Movie
+NFX100792,Show_792,Romance,2020,India,Korean,TV-PG,104,52,5.3,5,TV Show
+NFX100793,Show_793,Thriller,2001,South Korea,English,R,138,172,7.5,1,TV Show
+NFX100794,Show_794,Drama,2008,Canada,English,TV-PG,169,70,5.3,3,Movie
+NFX100795,Show_795,Horror,2009,India,Korean,R,179,91,7.9,2,TV Show
+NFX100796,Show_796,Romance,2015,India,Spanish,PG-13,148,83,8.8,3,TV Show
+NFX100797,Show_797,Horror,2001,United States,Hindi,TV-14,110,27,4.7,5,TV Show
+NFX100798,Show_798,Drama,2003,India,English,TV-MA,161,85,8.8,1,Movie
+NFX100799,Show_799,Action,2013,United States,Hindi,R,165,52,7.3,3,TV Show
+NFX100800,Show_800,Drama,2010,Japan,Korean,R,106,128,4.7,5,Movie
+NFX100801,Show_801,Sci-Fi,2002,South Korea,Spanish,TV-PG,112,134,6.4,2,Movie
+NFX100802,Show_802,Drama,2012,United States,Spanish,PG-13,123,88,4.9,4,TV Show
+NFX100803,Show_803,Drama,2021,Canada,Spanish,TV-PG,177,24,7.9,7,Movie
+NFX100804,Show_804,Sci-Fi,2017,Spain,Korean,TV-PG,175,191,8.2,6,TV Show
+NFX100805,Show_805,Thriller,2023,South Korea,Japanese,PG-13,97,50,4.6,2,Movie
+NFX100806,Show_806,Documentary,2012,United States,Japanese,TV-MA,123,135,6.8,1,TV Show
+NFX100807,Show_807,Drama,2024,South Korea,Hindi,TV-PG,146,187,8.5,6,Movie
+NFX100808,Show_808,Sci-Fi,2014,South Korea,Japanese,TV-PG,148,16,9.1,7,TV Show
+NFX100809,Show_809,Romance,2001,South Korea,Japanese,R,165,44,6.8,2,TV Show
+NFX100810,Show_810,Action,1997,Japan,Spanish,PG-13,66,70,9.2,2,TV Show
+NFX100811,Show_811,Action,2012,Canada,Spanish,TV-14,81,104,6.9,2,TV Show
+NFX100812,Show_812,Drama,2021,United Kingdom,Hindi,TV-MA,140,82,6.2,2,Movie
+NFX100813,Show_813,Thriller,2004,United Kingdom,English,TV-MA,141,20,8.7,6,Movie
+NFX100814,Show_814,Thriller,2001,United States,Hindi,PG-13,172,87,6.7,1,TV Show
+NFX100815,Show_815,Romance,2011,South Korea,Hindi,R,100,166,6.6,7,Movie
+NFX100816,Show_816,Drama,2008,United States,Korean,R,133,48,6.7,5,TV Show
+NFX100817,Show_817,Action,2018,Japan,Korean,PG-13,69,138,8.7,3,TV Show
+NFX100818,Show_818,Thriller,1997,Japan,Hindi,R,116,196,8.6,4,Movie
+NFX100819,Show_819,Drama,2006,India,Hindi,TV-MA,66,104,6.2,7,Movie
+NFX100820,Show_820,Horror,2022,Japan,Hindi,TV-MA,171,26,5.8,3,TV Show
+NFX100821,Show_821,Thriller,2007,India,Japanese,TV-14,109,22,6.7,3,Movie
+NFX100822,Show_822,Sci-Fi,1996,Canada,Korean,PG-13,161,16,7.2,4,TV Show
+NFX100823,Show_823,Horror,1997,United States,Hindi,TV-PG,150,184,5.3,7,Movie
+NFX100824,Show_824,Documentary,1999,Spain,Spanish,TV-PG,111,127,8.4,6,Movie
+NFX100825,Show_825,Thriller,2005,Canada,Spanish,TV-14,92,121,6.7,1,Movie
+NFX100826,Show_826,Action,2002,Japan,Japanese,TV-14,60,55,5.8,4,Movie
+NFX100827,Show_827,Comedy,2020,Canada,Japanese,R,167,75,4.6,1,Movie
+NFX100828,Show_828,Horror,2017,Canada,English,TV-14,112,52,5.3,6,TV Show
+NFX100829,Show_829,Documentary,2017,Canada,English,TV-14,119,23,9.2,3,Movie
+NFX100830,Show_830,Romance,2006,Japan,English,TV-PG,93,10,5.7,1,Movie
+NFX100831,Show_831,Romance,2001,Spain,Japanese,R,63,88,4.9,6,TV Show
+NFX100832,Show_832,Action,2009,South Korea,Japanese,TV-14,76,159,6.5,6,TV Show
+NFX100833,Show_833,Thriller,2018,Canada,Japanese,TV-14,63,57,5.7,5,TV Show
+NFX100834,Show_834,Drama,2011,India,Spanish,R,102,111,4.2,4,Movie
+NFX100835,Show_835,Thriller,1998,Japan,Japanese,PG-13,177,105,5.8,5,Movie
+NFX100836,Show_836,Action,2023,Canada,Spanish,R,149,52,7.0,3,TV Show
+NFX100837,Show_837,Romance,2016,Spain,English,TV-PG,63,139,7.0,4,TV Show
+NFX100838,Show_838,Thriller,2019,South Korea,English,PG-13,60,191,6.0,3,TV Show
+NFX100839,Show_839,Romance,2007,Japan,English,TV-MA,130,73,6.5,5,TV Show
+NFX100840,Show_840,Horror,2012,United Kingdom,Hindi,R,153,15,9.3,7,Movie
+NFX100841,Show_841,Documentary,1995,South Korea,Hindi,TV-PG,109,147,6.1,6,Movie
+NFX100842,Show_842,Drama,2010,India,Korean,PG-13,132,196,5.4,3,Movie
+NFX100843,Show_843,Horror,2007,Canada,Korean,R,120,135,5.3,4,Movie
+NFX100844,Show_844,Romance,2004,Spain,Korean,TV-14,94,126,6.5,4,Movie
+NFX100845,Show_845,Romance,2006,United Kingdom,Hindi,R,67,73,8.2,3,TV Show
+NFX100846,Show_846,Comedy,2024,Spain,Hindi,TV-MA,83,27,5.1,4,Movie
+NFX100847,Show_847,Comedy,1996,United Kingdom,Korean,R,142,185,7.9,6,TV Show
+NFX100848,Show_848,Horror,2017,Japan,Korean,PG-13,95,41,4.1,7,TV Show
+NFX100849,Show_849,Sci-Fi,1997,United Kingdom,Japanese,PG-13,109,13,6.3,6,TV Show
+NFX100850,Show_850,Horror,2004,India,Korean,R,175,19,8.3,4,Movie
+NFX100851,Show_851,Comedy,1996,India,Japanese,PG-13,102,135,5.9,3,TV Show
+NFX100852,Show_852,Romance,2024,United States,Spanish,TV-14,86,97,7.1,5,Movie
+NFX100853,Show_853,Action,2021,India,Hindi,R,91,21,5.1,4,TV Show
+NFX100854,Show_854,Horror,2017,South Korea,Korean,TV-14,137,158,8.1,4,Movie
+NFX100855,Show_855,Romance,2007,United Kingdom,Hindi,TV-14,77,153,4.3,4,TV Show
+NFX100856,Show_856,Action,2007,India,Hindi,TV-PG,87,76,8.7,4,Movie
+NFX100857,Show_857,Action,2012,Japan,Hindi,R,88,153,5.1,3,TV Show
+NFX100858,Show_858,Comedy,1997,Spain,Spanish,PG-13,75,125,8.8,5,TV Show
+NFX100859,Show_859,Horror,2021,Spain,English,TV-14,158,15,5.9,5,TV Show
+NFX100860,Show_860,Thriller,2001,United States,Korean,TV-PG,106,170,8.0,1,TV Show
+NFX100861,Show_861,Drama,2008,Spain,English,R,118,76,5.8,4,Movie
+NFX100862,Show_862,Comedy,2014,United Kingdom,English,R,90,110,9.0,4,Movie
+NFX100863,Show_863,Comedy,2023,United States,English,TV-MA,63,129,4.7,1,Movie
+NFX100864,Show_864,Thriller,2024,United Kingdom,Hindi,TV-MA,96,39,5.0,5,TV Show
+NFX100865,Show_865,Drama,2011,Japan,Japanese,TV-14,76,123,6.7,2,TV Show
+NFX100866,Show_866,Romance,2023,United States,Hindi,TV-MA,98,18,4.5,6,TV Show
+NFX100867,Show_867,Sci-Fi,2024,Canada,Hindi,TV-14,107,18,5.1,2,TV Show
+NFX100868,Show_868,Horror,2015,South Korea,English,PG-13,105,14,9.2,5,TV Show
+NFX100869,Show_869,Sci-Fi,2006,South Korea,Hindi,TV-14,149,144,9.4,7,TV Show
+NFX100870,Show_870,Romance,2019,United Kingdom,English,TV-MA,107,42,6.1,4,Movie
+NFX100871,Show_871,Documentary,2010,Spain,Japanese,PG-13,98,112,9.1,2,Movie
+NFX100872,Show_872,Comedy,2018,Canada,Korean,TV-MA,164,123,7.0,3,Movie
+NFX100873,Show_873,Drama,2006,United States,English,TV-14,63,38,5.5,3,Movie
+NFX100874,Show_874,Comedy,2009,Canada,Japanese,TV-PG,89,173,7.9,1,Movie
+NFX100875,Show_875,Action,2019,Canada,Korean,R,89,14,7.6,5,Movie
+NFX100876,Show_876,Comedy,2004,Spain,Spanish,TV-MA,81,126,9.4,5,Movie
+NFX100877,Show_877,Comedy,2024,United States,English,TV-14,134,149,5.5,2,Movie
+NFX100878,Show_878,Romance,2019,Japan,English,PG-13,125,149,7.7,4,TV Show
+NFX100879,Show_879,Romance,2001,Spain,Spanish,TV-MA,167,199,4.3,5,TV Show
+NFX100880,Show_880,Romance,2014,Canada,Spanish,TV-MA,71,194,4.6,2,TV Show
+NFX100881,Show_881,Sci-Fi,1999,Canada,English,R,153,119,4.0,2,TV Show
+NFX100882,Show_882,Action,1995,Japan,Spanish,TV-14,95,5,9.5,6,TV Show
+NFX100883,Show_883,Documentary,2024,Canada,Hindi,TV-PG,77,16,8.4,6,TV Show
+NFX100884,Show_884,Documentary,2011,Canada,Korean,PG-13,149,107,8.3,5,TV Show
+NFX100885,Show_885,Romance,1997,Canada,Korean,TV-14,112,8,6.8,2,Movie
+NFX100886,Show_886,Drama,2007,South Korea,Korean,PG-13,130,174,5.7,1,Movie
+NFX100887,Show_887,Sci-Fi,2008,Spain,Hindi,TV-MA,60,145,4.8,1,TV Show
+NFX100888,Show_888,Thriller,2018,India,Spanish,R,117,102,5.6,6,Movie
+NFX100889,Show_889,Drama,2024,Spain,Japanese,R,149,110,6.1,5,Movie
+NFX100890,Show_890,Horror,2012,Japan,Spanish,TV-PG,146,89,8.2,4,Movie
+NFX100891,Show_891,Horror,1998,Canada,English,R,149,125,7.0,7,Movie
+NFX100892,Show_892,Drama,2012,Spain,Korean,TV-MA,168,136,4.4,1,Movie
+NFX100893,Show_893,Romance,2024,South Korea,Spanish,TV-PG,65,86,4.1,1,TV Show
+NFX100894,Show_894,Thriller,1999,Japan,Japanese,TV-14,129,23,4.6,6,Movie
+NFX100895,Show_895,Thriller,2019,United Kingdom,English,R,103,134,6.3,6,TV Show
+NFX100896,Show_896,Sci-Fi,2010,Spain,Hindi,TV-PG,131,16,9.1,5,TV Show
+NFX100897,Show_897,Thriller,1995,United Kingdom,Hindi,TV-MA,83,85,7.5,6,TV Show
+NFX100898,Show_898,Horror,2015,Canada,Japanese,PG-13,145,78,8.4,3,Movie
+NFX100899,Show_899,Action,2008,South Korea,English,PG-13,78,102,6.6,7,TV Show
+NFX100900,Show_900,Romance,2009,South Korea,Korean,TV-MA,160,10,6.0,2,TV Show
+NFX100901,Show_901,Thriller,2003,Spain,Spanish,TV-MA,77,140,4.6,1,TV Show
+NFX100902,Show_902,Sci-Fi,2009,Japan,English,PG-13,154,129,8.8,3,TV Show
+NFX100903,Show_903,Horror,2011,Japan,Hindi,TV-PG,160,55,8.3,4,Movie
+NFX100904,Show_904,Action,2019,South Korea,Japanese,PG-13,89,15,4.9,3,TV Show
+NFX100905,Show_905,Comedy,2018,Japan,Japanese,TV-MA,101,195,6.8,5,TV Show
+NFX100906,Show_906,Comedy,1998,South Korea,Spanish,R,92,189,6.7,4,TV Show
+NFX100907,Show_907,Action,2006,Spain,Japanese,TV-14,133,131,7.4,4,TV Show
+NFX100908,Show_908,Horror,2021,India,Japanese,R,160,144,9.2,6,Movie
+NFX100909,Show_909,Sci-Fi,2020,South Korea,English,R,71,77,7.2,3,TV Show
+NFX100910,Show_910,Action,1999,United Kingdom,Korean,TV-MA,177,6,7.0,5,TV Show
+NFX100911,Show_911,Romance,2023,Japan,Spanish,PG-13,153,12,4.3,1,TV Show
+NFX100912,Show_912,Romance,1999,South Korea,English,TV-PG,86,143,4.3,7,TV Show
+NFX100913,Show_913,Comedy,2005,South Korea,Korean,R,98,128,5.0,6,TV Show
+NFX100914,Show_914,Thriller,2022,Spain,English,PG-13,68,57,4.2,3,TV Show
+NFX100915,Show_915,Sci-Fi,2000,Japan,English,TV-PG,177,14,8.1,1,Movie
+NFX100916,Show_916,Comedy,2001,India,Japanese,R,80,116,8.0,3,TV Show
+NFX100917,Show_917,Thriller,2018,Spain,Korean,TV-PG,135,12,4.7,6,Movie
+NFX100918,Show_918,Thriller,2008,India,Spanish,PG-13,178,40,8.6,1,Movie
+NFX100919,Show_919,Documentary,2018,Spain,Spanish,TV-14,88,110,4.9,6,TV Show
+NFX100920,Show_920,Romance,2005,Japan,Korean,PG-13,92,18,5.7,3,Movie
+NFX100921,Show_921,Horror,2024,United States,Japanese,TV-MA,166,186,5.4,4,TV Show
+NFX100922,Show_922,Drama,2007,Japan,Hindi,TV-PG,121,90,6.0,7,Movie
+NFX100923,Show_923,Horror,1996,Japan,English,TV-14,176,153,5.4,2,TV Show
+NFX100924,Show_924,Drama,2019,India,Japanese,TV-PG,74,54,6.7,7,Movie
+NFX100925,Show_925,Action,2001,India,Korean,TV-PG,61,171,6.2,4,Movie
+NFX100926,Show_926,Romance,2014,Japan,English,R,111,24,9.4,6,TV Show
+NFX100927,Show_927,Thriller,1998,Japan,Spanish,TV-MA,162,91,4.3,7,Movie
+NFX100928,Show_928,Sci-Fi,2021,Japan,Hindi,TV-PG,176,139,4.8,6,Movie
+NFX100929,Show_929,Drama,2002,India,Spanish,PG-13,103,141,4.3,6,Movie
+NFX100930,Show_930,Horror,2014,Japan,Korean,PG-13,113,133,7.4,1,Movie
+NFX100931,Show_931,Thriller,2023,Japan,English,R,77,158,4.3,5,Movie
+NFX100932,Show_932,Drama,2016,Canada,Korean,TV-MA,62,170,8.6,6,TV Show
+NFX100933,Show_933,Drama,2015,United States,English,TV-MA,66,42,6.8,7,Movie
+NFX100934,Show_934,Documentary,2013,United Kingdom,Japanese,PG-13,102,193,6.9,7,Movie
+NFX100935,Show_935,Drama,2007,United States,Hindi,TV-14,141,48,7.1,7,TV Show
+NFX100936,Show_936,Sci-Fi,2008,Canada,Japanese,R,167,90,4.9,4,TV Show
+NFX100937,Show_937,Romance,2004,United Kingdom,Japanese,R,97,48,5.1,2,TV Show
+NFX100938,Show_938,Sci-Fi,2005,Spain,Korean,PG-13,96,78,5.8,6,Movie
+NFX100939,Show_939,Comedy,1996,Japan,Hindi,PG-13,117,123,7.3,6,Movie
+NFX100940,Show_940,Thriller,2019,Canada,English,TV-14,92,194,5.2,6,Movie
+NFX100941,Show_941,Romance,2020,Spain,English,TV-14,167,126,4.6,1,Movie
+NFX100942,Show_942,Documentary,2003,Japan,Spanish,TV-MA,118,138,9.3,6,TV Show
+NFX100943,Show_943,Romance,2011,India,English,R,154,149,4.1,4,TV Show
+NFX100944,Show_944,Romance,2020,South Korea,Korean,R,70,55,8.4,3,Movie
+NFX100945,Show_945,Horror,1997,Canada,Japanese,PG-13,127,42,8.3,5,Movie
+NFX100946,Show_946,Romance,2018,India,Japanese,TV-MA,141,156,5.6,7,Movie
+NFX100947,Show_947,Documentary,2000,Canada,Japanese,R,127,55,4.7,6,Movie
+NFX100948,Show_948,Sci-Fi,1999,Canada,Hindi,TV-MA,172,14,4.8,1,TV Show
+NFX100949,Show_949,Romance,1999,India,English,TV-MA,157,124,7.8,4,TV Show
+NFX100950,Show_950,Action,2016,United Kingdom,Korean,PG-13,152,153,7.5,6,Movie
+NFX100951,Show_951,Thriller,2009,United States,Hindi,TV-MA,147,74,8.3,1,TV Show
+NFX100952,Show_952,Romance,2017,Japan,Spanish,TV-14,81,89,9.2,3,Movie
+NFX100953,Show_953,Thriller,2011,Canada,Korean,TV-14,125,61,7.8,2,Movie
+NFX100954,Show_954,Action,2003,Japan,Korean,TV-PG,103,130,4.9,6,TV Show
+NFX100955,Show_955,Action,1997,South Korea,Korean,PG-13,65,43,5.3,4,Movie
+NFX100956,Show_956,Thriller,2014,India,Japanese,TV-PG,101,37,8.6,1,TV Show
+NFX100957,Show_957,Drama,2020,Japan,Korean,TV-14,84,191,5.2,1,Movie
+NFX100958,Show_958,Comedy,2011,India,English,TV-PG,178,22,4.4,6,TV Show
+NFX100959,Show_959,Horror,2023,Japan,Korean,PG-13,116,188,7.9,1,Movie
+NFX100960,Show_960,Drama,2021,United States,Japanese,PG-13,144,61,6.2,2,TV Show
+NFX100961,Show_961,Drama,2004,United States,Korean,TV-MA,114,100,9.1,1,Movie
+NFX100962,Show_962,Sci-Fi,1997,United States,Spanish,R,75,52,7.6,7,Movie
+NFX100963,Show_963,Horror,2012,United States,Spanish,TV-MA,154,46,4.5,5,TV Show
+NFX100964,Show_964,Horror,2012,United States,Japanese,PG-13,73,31,9.2,7,Movie
+NFX100965,Show_965,Drama,2024,United States,English,TV-14,98,78,5.4,5,TV Show
+NFX100966,Show_966,Romance,2011,India,English,TV-14,87,114,5.9,1,TV Show
+NFX100967,Show_967,Sci-Fi,2018,Canada,Hindi,TV-MA,155,184,6.2,6,Movie
+NFX100968,Show_968,Sci-Fi,1997,Japan,Japanese,PG-13,151,174,4.3,5,Movie
+NFX100969,Show_969,Action,1997,United States,Korean,TV-14,110,36,6.7,4,Movie
+NFX100970,Show_970,Documentary,2000,India,Japanese,PG-13,178,30,4.7,5,Movie
+NFX100971,Show_971,Horror,2007,India,Hindi,TV-14,108,29,6.2,7,TV Show
+NFX100972,Show_972,Drama,2018,India,Japanese,PG-13,68,79,5.9,1,Movie
+NFX100973,Show_973,Action,2023,Canada,Japanese,TV-PG,117,27,8.3,6,Movie
+NFX100974,Show_974,Thriller,2009,Japan,Hindi,PG-13,104,61,8.4,3,Movie
+NFX100975,Show_975,Comedy,2019,Canada,English,PG-13,81,184,4.8,6,TV Show
+NFX100976,Show_976,Documentary,2003,United Kingdom,Korean,TV-MA,91,130,6.0,6,Movie
+NFX100977,Show_977,Documentary,1998,Spain,Hindi,TV-PG,128,91,6.1,6,TV Show
+NFX100978,Show_978,Documentary,2008,India,Spanish,R,146,35,4.8,4,Movie
+NFX100979,Show_979,Sci-Fi,1999,United Kingdom,English,TV-MA,128,68,8.4,2,TV Show
+NFX100980,Show_980,Thriller,1996,South Korea,Spanish,R,101,37,7.9,7,Movie
+NFX100981,Show_981,Documentary,2005,United States,English,TV-14,112,6,5.0,1,Movie
+NFX100982,Show_982,Thriller,2003,Spain,Korean,R,155,22,6.0,2,TV Show
+NFX100983,Show_983,Romance,2018,United States,Korean,PG-13,118,179,4.6,3,Movie
+NFX100984,Show_984,Documentary,1997,Canada,Japanese,R,133,165,7.5,2,Movie
+NFX100985,Show_985,Comedy,2021,Spain,Spanish,TV-MA,98,88,4.7,1,Movie
+NFX100986,Show_986,Thriller,2022,Japan,English,TV-MA,74,39,9.4,7,TV Show
+NFX100987,Show_987,Thriller,2023,United Kingdom,Korean,R,130,183,8.3,7,Movie
+NFX100988,Show_988,Comedy,2003,Japan,Hindi,TV-MA,88,118,6.1,1,TV Show
+NFX100989,Show_989,Documentary,1997,Canada,Korean,TV-MA,170,150,7.2,3,TV Show
+NFX100990,Show_990,Comedy,2019,United States,Hindi,R,62,114,9.0,1,TV Show
+NFX100991,Show_991,Thriller,1996,Spain,English,TV-PG,142,92,7.0,3,Movie
+NFX100992,Show_992,Comedy,2006,Japan,Korean,TV-PG,69,76,5.0,3,TV Show
+NFX100993,Show_993,Thriller,2004,Japan,Korean,TV-14,151,129,6.1,1,TV Show
+NFX100994,Show_994,Thriller,2003,United States,English,TV-MA,88,34,8.6,5,Movie
+NFX100995,Show_995,Romance,2009,Spain,Korean,R,138,176,7.5,7,TV Show
+NFX100996,Show_996,Drama,2002,United Kingdom,Hindi,TV-MA,94,57,7.6,3,TV Show
+NFX100997,Show_997,Thriller,2019,United States,Korean,PG-13,65,142,8.8,1,Movie
+NFX100998,Show_998,Documentary,1999,Japan,Spanish,TV-MA,71,91,8.9,5,Movie
+NFX100999,Show_999,Action,2005,United Kingdom,Japanese,TV-MA,170,184,9.1,7,TV Show
+NFX101000,Show_1000,Sci-Fi,2021,United Kingdom,Hindi,TV-PG,97,181,4.5,3,Movie
+NFX101001,Show_1001,Horror,1996,United States,Spanish,R,136,143,7.0,7,Movie
+NFX101002,Show_1002,Drama,2018,Japan,English,TV-MA,152,198,8.1,5,Movie
+NFX101003,Show_1003,Drama,2022,Canada,Hindi,TV-PG,78,190,8.2,7,TV Show
+NFX101004,Show_1004,Drama,2009,Japan,Japanese,TV-14,126,168,7.3,4,TV Show
+NFX101005,Show_1005,Romance,2000,India,Japanese,TV-PG,67,165,4.9,6,Movie
+NFX101006,Show_1006,Thriller,2002,Spain,English,TV-PG,67,179,8.4,4,TV Show
+NFX101007,Show_1007,Romance,2021,South Korea,English,TV-PG,178,17,8.0,5,Movie
+NFX101008,Show_1008,Thriller,1999,Canada,Hindi,TV-MA,143,44,4.5,3,Movie
+NFX101009,Show_1009,Documentary,2010,United Kingdom,Korean,TV-MA,106,93,6.6,1,Movie
+NFX101010,Show_1010,Romance,2020,Canada,English,TV-14,63,72,5.0,2,Movie
+NFX101011,Show_1011,Romance,2012,Spain,Korean,PG-13,110,46,5.9,1,Movie
+NFX101012,Show_1012,Sci-Fi,2000,United Kingdom,Spanish,PG-13,144,151,4.1,7,TV Show
+NFX101013,Show_1013,Action,1999,Spain,Japanese,PG-13,126,98,6.2,2,TV Show
+NFX101014,Show_1014,Romance,2022,United Kingdom,Korean,TV-14,104,23,7.0,2,TV Show
+NFX101015,Show_1015,Sci-Fi,2010,Canada,Japanese,PG-13,67,190,7.4,7,TV Show
+NFX101016,Show_1016,Comedy,2007,United Kingdom,Korean,PG-13,146,27,7.6,7,Movie
+NFX101017,Show_1017,Action,2022,United Kingdom,Spanish,TV-PG,75,58,8.6,3,Movie
+NFX101018,Show_1018,Documentary,1999,India,English,TV-MA,136,69,5.2,5,TV Show
+NFX101019,Show_1019,Romance,2007,Japan,Spanish,TV-MA,126,144,4.7,1,TV Show
+NFX101020,Show_1020,Horror,2011,Japan,English,TV-PG,171,28,8.7,5,Movie
+NFX101021,Show_1021,Drama,2012,South Korea,English,TV-PG,68,38,4.9,4,Movie
+NFX101022,Show_1022,Comedy,2002,South Korea,Japanese,TV-PG,119,57,9.4,3,Movie
+NFX101023,Show_1023,Comedy,2007,India,Spanish,TV-MA,137,140,8.6,3,TV Show
+NFX101024,Show_1024,Documentary,2024,South Korea,Korean,PG-13,136,22,6.8,4,Movie
+NFX101025,Show_1025,Sci-Fi,2023,Spain,Spanish,TV-PG,176,61,9.4,1,Movie
+NFX101026,Show_1026,Comedy,2013,Canada,Japanese,TV-14,130,116,4.5,6,TV Show
+NFX101027,Show_1027,Action,2020,United States,English,TV-PG,74,9,5.7,4,TV Show
+NFX101028,Show_1028,Romance,1997,Spain,Japanese,R,130,158,7.5,1,TV Show
+NFX101029,Show_1029,Romance,2018,United States,Hindi,TV-PG,161,162,5.9,2,Movie
+NFX101030,Show_1030,Horror,2002,United States,Hindi,TV-MA,157,186,9.1,7,Movie
+NFX101031,Show_1031,Documentary,1996,India,Korean,TV-PG,100,17,4.4,3,TV Show
+NFX101032,Show_1032,Drama,2002,Spain,Japanese,R,81,87,7.0,1,Movie
+NFX101033,Show_1033,Sci-Fi,2021,India,Korean,TV-14,83,33,7.2,5,Movie
+NFX101034,Show_1034,Drama,2007,United Kingdom,Korean,PG-13,172,7,7.6,7,Movie
+NFX101035,Show_1035,Comedy,2007,United States,Hindi,TV-PG,160,94,5.4,5,TV Show
+NFX101036,Show_1036,Documentary,1995,Canada,Korean,R,103,108,6.0,7,TV Show
+NFX101037,Show_1037,Horror,2000,South Korea,Hindi,R,60,127,8.6,3,Movie
+NFX101038,Show_1038,Drama,2018,Canada,English,TV-14,69,190,5.1,4,Movie
+NFX101039,Show_1039,Action,2013,South Korea,Japanese,TV-MA,166,80,8.5,6,Movie
+NFX101040,Show_1040,Romance,2010,United States,Korean,TV-PG,139,134,7.1,4,Movie
+NFX101041,Show_1041,Comedy,2002,United States,Hindi,R,169,112,8.2,1,TV Show
+NFX101042,Show_1042,Horror,2022,United States,Spanish,TV-14,131,160,7.9,4,TV Show
+NFX101043,Show_1043,Drama,1995,India,Korean,PG-13,115,86,5.1,3,Movie
+NFX101044,Show_1044,Sci-Fi,2021,Spain,English,R,172,81,7.1,1,Movie
+NFX101045,Show_1045,Action,2021,South Korea,English,TV-14,148,6,8.8,2,TV Show
+NFX101046,Show_1046,Action,2010,Spain,Spanish,TV-MA,109,131,6.4,4,Movie
+NFX101047,Show_1047,Drama,2003,India,Hindi,TV-MA,71,139,9.3,4,TV Show
+NFX101048,Show_1048,Romance,2007,India,Korean,R,148,30,6.5,6,Movie
+NFX101049,Show_1049,Drama,2005,Japan,Hindi,R,140,92,4.8,1,TV Show
+NFX101050,Show_1050,Comedy,2007,Canada,English,TV-PG,119,20,6.1,5,Movie
+NFX101051,Show_1051,Drama,2019,Canada,Hindi,TV-14,85,155,9.2,4,Movie
+NFX101052,Show_1052,Action,2015,United Kingdom,English,R,169,172,5.8,3,TV Show
+NFX101053,Show_1053,Horror,2004,India,Hindi,TV-PG,171,192,8.8,4,TV Show
+NFX101054,Show_1054,Drama,1998,South Korea,Spanish,TV-PG,137,77,8.8,6,Movie
+NFX101055,Show_1055,Romance,2021,Japan,Japanese,R,100,36,5.9,2,Movie
+NFX101056,Show_1056,Documentary,2000,Japan,Spanish,TV-MA,95,19,4.5,6,TV Show
+NFX101057,Show_1057,Horror,2022,Spain,Spanish,TV-14,82,145,8.0,4,TV Show
+NFX101058,Show_1058,Sci-Fi,2001,Canada,Japanese,TV-14,102,9,5.7,5,Movie
+NFX101059,Show_1059,Thriller,1999,India,Japanese,TV-MA,65,78,8.3,7,Movie
+NFX101060,Show_1060,Drama,2005,United Kingdom,Korean,R,170,56,6.4,4,TV Show
+NFX101061,Show_1061,Romance,2007,India,Korean,TV-14,128,81,6.7,1,TV Show
+NFX101062,Show_1062,Horror,2020,Spain,Spanish,R,102,173,8.3,4,TV Show
+NFX101063,Show_1063,Romance,2019,United States,Spanish,R,84,185,6.1,5,TV Show
+NFX101064,Show_1064,Sci-Fi,2013,India,English,TV-PG,77,114,6.4,1,TV Show
+NFX101065,Show_1065,Action,2017,Spain,English,TV-MA,121,182,6.1,3,Movie
+NFX101066,Show_1066,Romance,2004,United States,Korean,R,72,147,6.0,1,Movie
+NFX101067,Show_1067,Horror,2004,United States,Korean,PG-13,102,110,6.9,6,TV Show
+NFX101068,Show_1068,Romance,2005,United Kingdom,English,TV-MA,137,131,8.4,2,Movie
+NFX101069,Show_1069,Romance,2015,South Korea,English,TV-14,87,11,6.0,6,Movie
+NFX101070,Show_1070,Romance,2024,Canada,Hindi,TV-PG,77,44,6.9,7,TV Show
+NFX101071,Show_1071,Comedy,2001,India,Hindi,TV-14,118,160,7.7,1,Movie
+NFX101072,Show_1072,Comedy,2012,United States,English,TV-14,119,164,5.5,3,Movie
+NFX101073,Show_1073,Action,1998,India,Hindi,TV-MA,122,103,5.5,4,Movie
+NFX101074,Show_1074,Drama,1996,South Korea,Japanese,TV-14,116,147,9.1,1,TV Show
+NFX101075,Show_1075,Romance,2008,Canada,Korean,R,151,89,8.0,6,TV Show
+NFX101076,Show_1076,Sci-Fi,2007,South Korea,Korean,TV-14,110,69,7.2,1,Movie
+NFX101077,Show_1077,Drama,2023,Canada,English,TV-PG,115,136,7.6,1,Movie
+NFX101078,Show_1078,Sci-Fi,2006,Japan,Spanish,TV-PG,86,15,4.2,1,Movie
+NFX101079,Show_1079,Drama,2001,Canada,English,PG-13,91,112,7.4,3,Movie
+NFX101080,Show_1080,Action,1996,United Kingdom,Hindi,TV-PG,170,30,6.8,5,Movie
+NFX101081,Show_1081,Romance,2007,South Korea,Spanish,TV-14,68,193,7.0,5,Movie
+NFX101082,Show_1082,Romance,2008,United States,Hindi,TV-PG,163,169,6.0,1,TV Show
+NFX101083,Show_1083,Thriller,2021,Japan,Japanese,TV-MA,155,155,4.4,3,Movie
+NFX101084,Show_1084,Sci-Fi,2011,United Kingdom,Hindi,TV-PG,143,89,5.1,3,Movie
+NFX101085,Show_1085,Drama,2003,India,Japanese,R,151,172,9.2,7,TV Show
+NFX101086,Show_1086,Drama,2011,South Korea,Japanese,TV-MA,156,155,6.2,1,Movie
+NFX101087,Show_1087,Documentary,2002,Spain,Hindi,PG-13,127,127,6.6,6,Movie
+NFX101088,Show_1088,Documentary,1996,Spain,Hindi,R,105,148,4.3,6,Movie
+NFX101089,Show_1089,Comedy,2022,United States,Japanese,TV-14,157,193,4.2,2,Movie
+NFX101090,Show_1090,Thriller,2018,Canada,Spanish,TV-14,171,72,7.9,1,TV Show
+NFX101091,Show_1091,Horror,2007,United States,Japanese,TV-14,126,108,7.0,2,Movie
+NFX101092,Show_1092,Documentary,1997,Spain,Korean,R,85,84,6.8,6,TV Show
+NFX101093,Show_1093,Horror,2010,India,Japanese,R,67,163,5.3,6,Movie
+NFX101094,Show_1094,Comedy,2000,Japan,Spanish,R,65,57,8.1,1,Movie
+NFX101095,Show_1095,Comedy,2013,Japan,Korean,TV-MA,139,110,4.9,2,TV Show
+NFX101096,Show_1096,Comedy,2024,South Korea,English,TV-MA,83,157,5.0,2,Movie
+NFX101097,Show_1097,Sci-Fi,2001,Japan,English,TV-14,107,48,6.5,1,TV Show
+NFX101098,Show_1098,Sci-Fi,2004,South Korea,Spanish,TV-PG,162,144,5.6,7,TV Show
+NFX101099,Show_1099,Action,2003,South Korea,Japanese,TV-14,153,94,5.4,2,TV Show
+NFX101100,Show_1100,Action,1996,South Korea,Hindi,PG-13,104,105,7.5,7,Movie
+NFX101101,Show_1101,Comedy,2022,Spain,Spanish,TV-MA,72,101,7.6,4,Movie
+NFX101102,Show_1102,Thriller,2022,Spain,Korean,R,128,13,8.5,6,Movie
+NFX101103,Show_1103,Drama,2009,Canada,Korean,TV-MA,84,16,6.3,5,Movie
+NFX101104,Show_1104,Sci-Fi,2024,United Kingdom,English,R,79,73,4.4,7,TV Show
+NFX101105,Show_1105,Thriller,1999,South Korea,Korean,PG-13,177,186,5.5,7,Movie
+NFX101106,Show_1106,Romance,2023,South Korea,Spanish,PG-13,141,186,9.4,7,Movie
+NFX101107,Show_1107,Sci-Fi,2016,United Kingdom,Korean,TV-MA,170,32,7.3,3,TV Show
+NFX101108,Show_1108,Sci-Fi,1998,United States,Spanish,R,141,60,7.9,2,TV Show
+NFX101109,Show_1109,Action,2014,South Korea,Hindi,PG-13,125,103,4.0,2,Movie
+NFX101110,Show_1110,Drama,1998,Canada,English,TV-14,133,114,6.9,3,TV Show
+NFX101111,Show_1111,Drama,2012,Japan,Korean,TV-14,178,81,4.2,2,TV Show
+NFX101112,Show_1112,Documentary,1998,Japan,Spanish,R,104,107,7.1,3,TV Show
+NFX101113,Show_1113,Horror,2021,India,Japanese,TV-MA,173,110,9.1,7,TV Show
+NFX101114,Show_1114,Horror,2011,India,English,PG-13,106,113,9.3,1,TV Show
+NFX101115,Show_1115,Horror,2006,Japan,Hindi,TV-MA,122,116,7.0,4,Movie
+NFX101116,Show_1116,Horror,2016,Japan,Spanish,TV-14,135,62,6.5,7,Movie
+NFX101117,Show_1117,Romance,2011,Spain,Hindi,PG-13,170,82,9.2,4,Movie
+NFX101118,Show_1118,Romance,2004,Canada,Hindi,TV-MA,136,79,7.7,6,Movie
+NFX101119,Show_1119,Sci-Fi,2016,United Kingdom,Korean,TV-PG,173,46,4.4,7,Movie
+NFX101120,Show_1120,Comedy,1995,India,Korean,R,170,170,6.6,5,Movie
+NFX101121,Show_1121,Action,2016,Spain,Spanish,R,114,72,5.3,2,Movie
+NFX101122,Show_1122,Action,2020,Spain,Japanese,TV-PG,134,185,6.6,5,TV Show
+NFX101123,Show_1123,Horror,2018,United Kingdom,Spanish,TV-14,78,37,6.5,1,Movie
+NFX101124,Show_1124,Sci-Fi,2021,Spain,Japanese,PG-13,94,75,7.2,4,Movie
+NFX101125,Show_1125,Documentary,2012,Canada,Hindi,R,162,60,6.0,7,Movie
+NFX101126,Show_1126,Thriller,2012,Japan,English,TV-PG,112,109,4.9,1,TV Show
+NFX101127,Show_1127,Comedy,2008,South Korea,Spanish,TV-PG,85,105,6.8,1,Movie
+NFX101128,Show_1128,Sci-Fi,2009,United Kingdom,Spanish,TV-14,169,55,8.6,2,Movie
+NFX101129,Show_1129,Comedy,2023,Japan,Japanese,TV-14,73,78,7.7,1,TV Show
+NFX101130,Show_1130,Comedy,2006,Japan,Hindi,TV-MA,177,175,5.9,7,Movie
+NFX101131,Show_1131,Comedy,1998,United States,Hindi,R,104,125,9.1,7,Movie
+NFX101132,Show_1132,Sci-Fi,2021,United Kingdom,Japanese,TV-MA,103,147,9.0,4,TV Show
+NFX101133,Show_1133,Horror,1997,Spain,Hindi,TV-PG,147,170,5.2,7,Movie
+NFX101134,Show_1134,Action,2014,South Korea,Korean,PG-13,164,147,4.2,5,TV Show
+NFX101135,Show_1135,Action,2023,United Kingdom,English,PG-13,124,9,8.1,4,Movie
+NFX101136,Show_1136,Horror,2006,Spain,Spanish,TV-14,110,87,8.6,2,Movie
+NFX101137,Show_1137,Comedy,2001,Japan,English,PG-13,102,186,9.3,4,Movie
+NFX101138,Show_1138,Thriller,2023,South Korea,Spanish,PG-13,178,55,8.9,3,TV Show
+NFX101139,Show_1139,Drama,2005,Spain,Korean,PG-13,145,14,7.3,5,TV Show
+NFX101140,Show_1140,Sci-Fi,1995,Canada,Hindi,TV-PG,82,144,6.9,3,TV Show
+NFX101141,Show_1141,Drama,2000,Spain,Japanese,PG-13,115,8,4.2,3,Movie
+NFX101142,Show_1142,Documentary,2009,United States,Korean,PG-13,177,99,5.4,6,Movie
+NFX101143,Show_1143,Horror,2009,Japan,English,PG-13,78,150,6.5,7,TV Show
+NFX101144,Show_1144,Thriller,2013,Spain,Japanese,TV-MA,141,84,7.5,2,TV Show
+NFX101145,Show_1145,Sci-Fi,2005,India,Hindi,TV-PG,135,40,7.1,1,Movie
+NFX101146,Show_1146,Horror,2020,India,Korean,TV-14,114,29,8.1,3,Movie
+NFX101147,Show_1147,Comedy,2017,United States,Japanese,TV-MA,151,102,5.5,4,Movie
+NFX101148,Show_1148,Action,2020,Canada,Korean,R,151,168,7.1,1,Movie
+NFX101149,Show_1149,Drama,1996,Japan,Korean,TV-PG,119,105,4.5,4,TV Show
+NFX101150,Show_1150,Romance,2008,United Kingdom,Hindi,TV-PG,118,199,6.3,4,Movie
+NFX101151,Show_1151,Romance,1996,United States,Spanish,R,92,13,8.1,1,Movie
+NFX101152,Show_1152,Thriller,2023,Canada,Japanese,R,78,65,7.8,1,Movie
+NFX101153,Show_1153,Comedy,1998,United Kingdom,Hindi,R,87,57,9.4,7,Movie
+NFX101154,Show_1154,Documentary,2011,India,Korean,TV-14,111,150,5.5,4,Movie
+NFX101155,Show_1155,Drama,1997,India,Hindi,PG-13,108,175,6.7,2,Movie
+NFX101156,Show_1156,Comedy,2007,United Kingdom,Spanish,TV-PG,96,167,5.8,7,Movie
+NFX101157,Show_1157,Drama,2003,United States,Japanese,PG-13,85,67,6.4,5,TV Show
+NFX101158,Show_1158,Thriller,2001,India,Spanish,PG-13,158,125,8.7,6,TV Show
+NFX101159,Show_1159,Thriller,2009,Japan,English,R,157,109,7.8,5,TV Show
+NFX101160,Show_1160,Documentary,2017,South Korea,Japanese,TV-14,158,8,8.9,2,Movie
+NFX101161,Show_1161,Romance,2023,Spain,Spanish,TV-MA,99,97,5.1,7,TV Show
+NFX101162,Show_1162,Comedy,2023,United Kingdom,Korean,TV-14,139,173,8.8,6,Movie
+NFX101163,Show_1163,Sci-Fi,2005,United Kingdom,Japanese,PG-13,97,177,4.3,7,Movie
+NFX101164,Show_1164,Romance,2014,India,Japanese,TV-14,136,182,8.9,1,Movie
+NFX101165,Show_1165,Comedy,1996,United States,Hindi,R,146,32,5.8,6,Movie
+NFX101166,Show_1166,Romance,2009,Japan,Korean,TV-MA,113,174,5.7,4,TV Show
+NFX101167,Show_1167,Sci-Fi,2008,United States,English,R,81,84,6.8,5,Movie
+NFX101168,Show_1168,Action,2014,Canada,Spanish,TV-MA,75,80,9.2,6,Movie
+NFX101169,Show_1169,Action,2016,Canada,Hindi,PG-13,87,120,4.3,4,TV Show
+NFX101170,Show_1170,Documentary,2005,South Korea,Spanish,TV-MA,171,73,5.9,7,TV Show
+NFX101171,Show_1171,Action,2021,India,English,TV-MA,94,102,8.7,2,TV Show
+NFX101172,Show_1172,Action,1997,India,English,TV-MA,119,5,6.2,6,Movie
+NFX101173,Show_1173,Horror,2011,India,Japanese,TV-14,104,171,5.1,4,TV Show
+NFX101174,Show_1174,Drama,2024,South Korea,English,TV-14,105,100,6.3,7,Movie
+NFX101175,Show_1175,Horror,2006,Canada,Spanish,PG-13,131,21,6.1,7,Movie
+NFX101176,Show_1176,Horror,2018,United States,Korean,TV-MA,167,116,9.0,7,TV Show
+NFX101177,Show_1177,Documentary,2022,South Korea,Korean,TV-PG,114,95,8.2,2,TV Show
+NFX101178,Show_1178,Horror,2023,South Korea,Japanese,PG-13,178,92,6.8,1,TV Show
+NFX101179,Show_1179,Action,2015,United States,Spanish,TV-MA,145,167,9.4,2,Movie
+NFX101180,Show_1180,Sci-Fi,2009,India,Spanish,TV-MA,144,178,6.6,2,Movie
+NFX101181,Show_1181,Documentary,2010,Japan,English,TV-14,85,174,4.3,5,Movie
+NFX101182,Show_1182,Documentary,1999,United States,Spanish,PG-13,163,171,5.4,7,Movie
+NFX101183,Show_1183,Thriller,2021,Canada,Hindi,TV-MA,144,94,6.4,4,Movie
+NFX101184,Show_1184,Documentary,2014,United Kingdom,English,TV-MA,84,53,4.9,6,Movie
+NFX101185,Show_1185,Thriller,2000,United Kingdom,Hindi,PG-13,164,194,9.2,5,TV Show
+NFX101186,Show_1186,Documentary,2013,Spain,Japanese,TV-PG,124,42,8.2,7,Movie
+NFX101187,Show_1187,Drama,2019,Spain,Korean,PG-13,65,155,5.5,3,TV Show
+NFX101188,Show_1188,Action,1999,South Korea,Japanese,PG-13,82,154,7.2,2,TV Show
+NFX101189,Show_1189,Documentary,1997,United Kingdom,Korean,TV-PG,174,136,8.0,3,TV Show
+NFX101190,Show_1190,Action,2021,Japan,Japanese,PG-13,123,181,9.2,7,TV Show
+NFX101191,Show_1191,Action,1995,India,Spanish,TV-MA,146,63,8.8,5,TV Show
+NFX101192,Show_1192,Romance,2020,Canada,Hindi,PG-13,102,72,6.8,4,Movie
+NFX101193,Show_1193,Documentary,2022,Spain,Korean,TV-PG,166,134,8.3,5,Movie
+NFX101194,Show_1194,Comedy,2000,Japan,English,R,82,53,7.1,4,Movie
+NFX101195,Show_1195,Romance,2009,Canada,Hindi,PG-13,155,130,7.0,4,Movie
+NFX101196,Show_1196,Comedy,1996,Canada,English,TV-14,89,163,4.6,7,TV Show
+NFX101197,Show_1197,Action,2023,India,Hindi,TV-MA,136,115,4.7,1,TV Show
+NFX101198,Show_1198,Action,1997,South Korea,Hindi,TV-MA,166,172,6.9,7,TV Show
+NFX101199,Show_1199,Romance,2011,United Kingdom,Japanese,TV-14,77,52,5.5,2,Movie
